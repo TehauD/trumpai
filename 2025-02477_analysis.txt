@@ -1,0 +1,51 @@
+
+Order number                            : 14196
+Date signed                             : February 3, 2025
+Signed by                               : The President
+Detailed Summary                        : Establishes a plan for the creation of a United States Sovereign Wealth Fund to promote fiscal sustainability, lessen taxes, and strengthen economic and strategic leadership internationally.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {Sovereign Wealth Fund, Fiscal Sustainability, Economic Leadership, Treasury}
+Authority granted to                    : Secretary of the Treasury and the Secretary of Commerce
+Impacted entities                       : American citizens, Federal Government, future generations
+Budgetary impact                        : 
+Enforcement Mechanism                   : 
+Implementation timeline                 : 90 days
+Long-term Impact                        : Promote long-term financial health and international leadership of the United States
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : United States
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : 
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : {Fiscal Sustainability, Economic Growth}
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : Promote United States economic and strategic leadership internationally
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

@@ -1,0 +1,51 @@
+
+Order number                            : 14150
+Date signed                             : January 20, 2025
+Signed by                               : Trump
+Detailed Summary                        : This executive order directs the Secretary of State to align the Department of State's policies and operations with an 'America First' foreign policy approach.
+Agency Impacted                         : Department of State
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {America First, foreign policy, Department of State}
+Authority granted to                    : Secretary of State
+Impacted entities                       : {United States, American citizens, foreign governments}
+Budgetary impact                        : 
+Enforcement Mechanism                   : 
+Implementation timeline                 : As soon as practicable
+Long-term Impact                        : 
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Foreign policy of the United States
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : 
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : {foreign policy}
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

@@ -1,0 +1,51 @@
+
+Order number                            : 14148
+Date signed                             : January 20, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This Executive Order revokes a wide range of executive actions issued by the previous administration, primarily targeting policies related to diversity, equity, and inclusion (DEI), climate change, immigration, and social justice. It asserts that these policies were harmful, inflationary, illegal, and radical. The order aims to restore common sense to the Federal Government and unleash the potential of American citizens.
+Agency Impacted                         : Multiple agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Potential for deregulation and reduced government intervention in certain areas., Alignment with conservative viewpoints on social and economic issues.}
+Cons                                    : {Risk of rolling back progress on climate change mitigation and social justice initiatives., Possibility of increased inequality and discrimination., Potential for legal challenges and political backlash.}
+Keywords                                : {DEI, Climate Change, Immigration, Social Justice…}
+Authority granted to                    : The President
+Impacted entities                       : Federal agencies, individuals, businesses
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : Revocation of previous executive actions and directives issued by federal agencies.
+Implementation timeline                 : Immediate
+Long-term Impact                        : Uncertain and subject to debate. Potential for significant shifts in policy direction and societal impacts.
+Stakeholder Reactions                   : Likely to be highly polarized, with strong reactions from both supporters and opponents of the revoked policies.
+Historical Context                      : Follows a pattern of executive orders aimed at reversing actions taken by previous administrations.
+Implementation Challenges               : Potential resistance from career civil servants, legal challenges, and public opposition.
+Public Perception                       : Likely to be divisive, reflecting existing political divisions on the issues addressed in the revoked executive orders.
+Legal Precedents                        : Relies on the President's authority to revoke prior executive actions.
+Executive Order Comparisons             : Similar in scope and intent to previous executive orders issued by presidents upon taking office.
+Executive Order Duration                : Ongoing, subject to potential future revisions or revocations.
+Scope of Applicability                  : Nationwide
+Interaction with Other Laws/Regulations : Potential for conflicts with existing laws and regulations that supported the revoked policies.
+Delegated Powers                        : 
+Revocation/Modification Process         : Subject to Presidential discretion and potential legal challenges.
+Political Context                       : Highly politicized, reflecting partisan divides on social and economic issues.
+Priority Areas Addressed                : Economic growth, deregulation, traditional values, national security
+Compliance Requirements                 : Federal agencies will need to adjust their policies and procedures in accordance with the revoked executive orders.
+Court Involvement                       : Likely to be subject to legal challenges from affected parties.
+Impact on International Relations       : Potential for strained relations with countries that supported the revoked policies.
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Subject to Congressional oversight and potential public scrutiny
+Temporary vs. Permanent Measures        : Permanent revocation of the specified executive orders.
+Environmental Considerations            : Potential weakening of environmental protections depending on specific policies revoked.
+Civil Liberties Considerations          : Concerns regarding potential impact on civil rights and liberties, depending on specific policies revoked.
+Public Health Impact                    : Possible implications for public health initiatives depending on specific policies revoked.
+Data and Reporting Requirements         : 
+Security Implications                   : Potential impact on national security depending on the nature of the revoked policies.
+Partisan Support/Opposition             : Strong partisan divide, with Republicans largely supporting and Democrats largely opposing the order.
+Executive Action Precedent              : Consistent with past practices of presidents reversing actions taken by their predecessors.
+Economic Sector Impact                  : Varying impacts depending on the specific policies revoked.
+Labor/Workforce Impact                  : Potential for changes in labor regulations and workforce diversity initiatives.
+Technological Impact                    : 
+Social Justice Considerations           : Concerns regarding potential rollback of progress on social justice issues depending on specific policies revoked.
+Transparency                            : Subject to public scrutiny and potential Freedom of Information Act requests.
+Public Engagement or Consultation       : Limited public engagement prior to the issuance of the order.
+

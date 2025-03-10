@@ -1,0 +1,51 @@
+
+Order number                            : 14209
+Date signed                             : February 10, 2025
+Signed by                               : President Donald Trump
+Detailed Summary                        : This executive order pauses enforcement of the Foreign Corrupt Practices Act (FCPA) for a period of 180 days to allow for a review of its application and impact on U.S. foreign policy and economic competitiveness. The order argues that the FCPA has been overextended beyond its original intent, harming American businesses abroad and impeding the President's Article II authority over foreign affairs.
+Agency Impacted                         : Department of Justice
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Potentially boosts American economic competitiveness abroad., Allows for review and potential reform of FCPA guidelines.}
+Cons                                    : {May be perceived as undermining the fight against corruption., Could weaken accountability for U.S. companies operating overseas.}
+Keywords                                : {Foreign Corrupt Practices Act (FCPA), Executive Order, Presidential Authority, National Security…}
+Authority granted to                    : Attorney General
+Impacted entities                       : {American businesses, U.S. Department of Justice, Foreign governments}
+Budgetary impact                        : Not specified, but potential for redirection of resources within the Department of Justice.
+Enforcement Mechanism                   : Review and revision of FCPA guidelines and policies by the Attorney General.
+Implementation timeline                 : 180 days, with potential for extension.
+Long-term Impact                        : Potential for significant changes to FCPA enforcement, depending on the outcome of the review process.
+Stakeholder Reactions                   : Likely mixed reactions from businesses, human rights groups, and foreign governments.
+Historical Context                      : The FCPA has been subject to debate regarding its scope and impact since its enactment in 1977.
+Implementation Challenges               : Balancing national security interests with concerns about corruption and accountability.
+Public Perception                       : Could be seen as a positive step by American businesses or a negative step by those concerned about corruption.
+Legal Precedents                        : Previous executive orders regarding regulatory review and enforcement priorities.
+Executive Order Comparisons             : May be compared to other executive orders aimed at deregulation or promoting business interests.
+Executive Order Duration                : Initial duration of 180 days, with potential extension.
+Scope of Applicability                  : Applies to all FCPA investigations and enforcement actions.
+Interaction with Other Laws/Regulations : Potentially affects the application and interpretation of other laws related to international business conduct.
+Delegated Powers                        : Attorney General is delegated authority to review and revise FCPA guidelines and policies.
+Revocation/Modification Process         : Can be revoked or modified by subsequent executive orders.
+Political Context                       : Issued within a context of increasing focus on American economic competitiveness and concerns about regulatory burdens.
+Priority Areas Addressed                : National security, economic growth, regulatory reform.
+Compliance Requirements                 : Not specified, but potentially subject to changes based on revised guidelines.
+Court Involvement                       : Possible legal challenges to the order or its implementation.
+Impact on International Relations       : Could strain relations with foreign governments concerned about weakening anti-corruption efforts.
+Enabling Legislation                    : Foreign Corrupt Practices Act (15 U.S.C. 78dd-1 et seq.)
+Review and Oversight Mechanism          : Subject to congressional oversight and potential legal challenges.
+Temporary vs. Permanent Measures        : Initially temporary, with the potential for permanent changes depending on the review outcome.
+Environmental Considerations            : Not specifically addressed.
+Civil Liberties Considerations          : Not directly addressed.
+Public Health Impact                    : Not applicable.
+Data and Reporting Requirements         : Not specified.
+Security Implications                   : Potentially strengthens national security by promoting American economic interests abroad, but could also be seen as weakening accountability for U.S. companies operating in sensitive regions.
+Partisan Support/Opposition             : Likely to face opposition from Democrats and human rights groups, while supported by Republicans and business interests.
+Executive Action Precedent              : Continues a trend of using executive orders to advance policy priorities.
+Economic Sector Impact                  : Potentially significant impact on various economic sectors with international operations.
+Labor/Workforce Impact                  : Not directly addressed.
+Technological Impact                    : Not directly addressed.
+Social Justice Considerations           : May raise concerns about potential for increased corruption and exploitation in developing countries.
+Transparency                            : Limited transparency regarding the review process and potential outcomes.
+Public Engagement or Consultation       : No specific mention of public engagement or consultation.
+

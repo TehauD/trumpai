@@ -1,0 +1,51 @@
+
+Order number                            : 14192
+Date signed                             : January 31, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order aims to reduce regulatory burdens on Americans and businesses. It mandates a "ten-for-one" rule: for every new regulation introduced, at least ten existing regulations must be repealed. This is intended to control the cost of new regulations and promote economic growth.
+Agency Impacted                         : All executive departments and agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Reduced regulatory burdens, Economic growth, Increased competitiveness}
+Cons                                    : {Potential for weakening essential regulations, Complexity of identifying regulations for repeal}
+Keywords                                : {Deregulation, Regulatory Reform, Cost-Benefit Analysis, Executive Order…}
+Authority granted to                    : Heads of executive departments and agencies
+Impacted entities                       : Businesses, individuals, all sectors of the economy
+Budgetary impact                        : Aiming for a net reduction in regulatory costs
+Enforcement Mechanism                   : Oversight by the Office of Management and Budget (OMB)
+Implementation timeline                 : Immediate
+Long-term Impact                        : Potential for significant changes to the regulatory landscape
+Stakeholder Reactions                   : Likely to be mixed, with support from businesses and opposition from some advocacy groups
+Historical Context                      : Continues a trend of deregulation efforts by recent administrations
+Implementation Challenges               : Identifying regulations for repeal without harming important public protections
+Public Perception                       : Likely to be polarized, depending on individual perspectives on regulation
+Legal Precedents                        : Previous executive orders on regulatory reform
+Executive Order Comparisons             : May be compared to other deregulatory efforts by previous administrations
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : Applies to all new and existing regulations issued by executive departments and agencies
+Interaction with Other Laws/Regulations : Will need to be harmonized with existing legal requirements
+Delegated Powers                        : OMB Director given significant authority over regulatory review process
+Revocation/Modification Process         : Not explicitly outlined, but subject to future guidance from the OMB
+Political Context                       : Reflects a political agenda focused on reducing government intervention in the economy
+Priority Areas Addressed                : Economic growth, job creation, reducing bureaucratic burdens
+Compliance Requirements                 : Agencies required to submit plans and reports to OMB demonstrating compliance with the ten-for-one rule
+Court Involvement                       : Possible legal challenges from groups seeking to protect specific regulations
+Impact on International Relations       : Potentially could affect US trade agreements and global competitiveness
+Enabling Legislation                    : Not specified, relies on existing authority of the President
+Review and Oversight Mechanism          : OMB Director is responsible for overseeing implementation and providing guidance to agencies
+Temporary vs. Permanent Measures        : Intended as a permanent change in regulatory policy
+Environmental Considerations            : Potential impact on environmental regulations not explicitly addressed
+Civil Liberties Considerations          : Not explicitly addressed, but potential for impact depending on specific regulations repealed
+Public Health Impact                    : Potential impact on public health regulations not explicitly addressed
+Data and Reporting Requirements         : Agencies required to report on regulatory costs and savings
+Security Implications                   : Not explicitly addressed, but potential for impact depending on specific regulations repealed
+Partisan Support/Opposition             : Likely to be highly partisan, with Republicans generally supporting and Democrats opposing
+Executive Action Precedent              : Builds on previous efforts by administrations to reduce regulation
+Economic Sector Impact                  : Broad impact across all sectors of the economy
+Labor/Workforce Impact                  : Potential for both positive and negative impacts depending on specific regulations repealed
+Technological Impact                    : Potential impact on technology regulations not explicitly addressed
+Social Justice Considerations           : Not explicitly addressed, but potential for impact depending on specific regulations repealed
+Transparency                            : OMB required to publish guidance and agency compliance reports
+Public Engagement or Consultation       : No explicit requirement for public engagement
+

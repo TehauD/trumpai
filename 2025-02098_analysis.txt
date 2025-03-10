@@ -1,0 +1,51 @@
+
+Order number                            : 14174
+Date signed                             : January 21, 2025
+Signed by                               : Joe Biden
+Detailed Summary                        : This executive order revokes two previous executive orders related to COVID-19 safety protocols and vaccine requirements for federal employees and contractors.
+Agency Impacted                         : Various Federal Agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : 
+Pros                                    : {Removes potentially outdated COVID-19 restrictions, Allows agencies more flexibility in managing their workforce}
+Cons                                    : {May be perceived as undermining public health efforts, Could face legal challenges from those who believe the previous orders were necessary}
+Keywords                                : {Executive Order, COVID-19, Federal Employees, Federal Contractors…}
+Authority granted to                    : 
+Impacted entities                       : {Federal Agencies, Federal Employees, Federal Contractors}
+Budgetary impact                        : Unknown
+Enforcement Mechanism                   : Agency implementation and adherence
+Implementation timeline                 : Immediate
+Long-term Impact                        : Uncertain, depends on future pandemic developments
+Stakeholder Reactions                   : Likely mixed, with some praising the move while others criticize it
+Historical Context                      : Previous executive orders were issued during the height of the COVID-19 pandemic.
+Implementation Challenges               : Ensuring smooth transition and compliance across agencies
+Public Perception                       : Divided, reflecting differing views on COVID-19 measures
+Legal Precedents                        : Revocation of previous Executive Orders
+Executive Order Comparisons             : Executive Order 14042, Executive Order 14043
+Executive Order Duration                : Indefinite until revoked or superseded
+Scope of Applicability                  : Federal Agencies and their employees/contractors
+Interaction with Other Laws/Regulations : Potentially impacts existing workplace safety regulations
+Delegated Powers                        : 
+Revocation/Modification Process         : Future executive order
+Political Context                       : Ongoing debates about COVID-19 policies and government overreach
+Priority Areas Addressed                : Public health, workforce management
+Compliance Requirements                 : Agencies must comply with the revocation and adjust their policies accordingly
+Court Involvement                       : 
+Impact on International Relations       : Minimal
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Congressional oversight, potential legal challenges
+Temporary vs. Permanent Measures        : Permanent until revoked
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potentially negative if COVID-19 resurgence occurs
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely along partisan lines
+Executive Action Precedent              : Establishes a precedent for revoking previous executive orders on pandemic-related issues
+Economic Sector Impact                  : Minimal direct impact
+Labor/Workforce Impact                  : Potential impact on workplace policies and employee safety measures
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Executive order publicly available
+Public Engagement or Consultation       : 
+

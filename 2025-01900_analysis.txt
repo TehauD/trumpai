@@ -1,0 +1,51 @@
+
+Order number                            : 14147
+Date signed                             : January 20, 2025
+Signed by                               : President [Name Redacted]
+Detailed Summary                        : This Executive Order aims to address what the President perceives as the weaponization of federal agencies against political opponents during the previous administration. It directs reviews of Department of Justice, Intelligence Community, and other agency activities over the past four years to identify instances where actions appear contrary to the order's policies and recommends remedial actions.
+Agency Impacted                         : Multiple federal agencies, including the Department of Justice, Securities and Exchange Commission, Federal Trade Commission, and Intelligence Community
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Aims to prevent misuse of law enforcement and intelligence agencies for political purposes., Seeks accountability for past actions that may have violated civil liberties.}
+Cons                                    : {Potential for politicization of reviews and remedial actions., May undermine trust in government institutions.}
+Keywords                                : {Weaponization, Federal Government, Political Opponents, Department of Justice…}
+Authority granted to                    : Attorney General, Director of National Intelligence
+Impacted entities                       : American citizens, Federal agencies
+Budgetary impact                        : 
+Enforcement Mechanism                   : Department heads' compliance with document retention policies and legal obligations
+Implementation timeline                 : 
+Long-term Impact                        : Potential for changes in how federal agencies operate and interact with political figures.
+Stakeholder Reactions                   : 
+Historical Context                      : Concerns about politicization of law enforcement during previous administrations.
+Implementation Challenges               : Ensuring objectivity and impartiality in reviews; potential resistance from within agencies.
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Federal agencies exercising civil or criminal enforcement authority
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : Review and recommend remedial actions to the President.
+Revocation/Modification Process         : 
+Political Context                       : Issued following a contentious election and heightened political polarization.
+Priority Areas Addressed                : Preventing abuse of power by federal agencies; upholding civil liberties.
+Compliance Requirements                 : Agencies must comply with document retention policies and legal obligations.
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Submission of reports to the President through designated advisors.
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : Central focus of the order is protecting civil liberties from government overreach.
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : Addresses concerns about targeting of marginalized groups by law enforcement.
+Transparency                            : 
+Public Engagement or Consultation       : 
+

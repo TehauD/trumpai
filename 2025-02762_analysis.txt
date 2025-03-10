@@ -1,0 +1,51 @@
+
+Order number                            : 14210
+Date signed                             : February 11, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order aims to reduce the size of the federal workforce through attrition and efficiency improvements. It directs agency heads to implement hiring freezes and reductions in force (RIFs), prioritizes certain positions for elimination, and mandates reporting on implementation progress.
+Agency Impacted                         : All Federal Agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Reduced federal spending, Increased efficiency}
+Cons                                    : {Potential loss of expertise, Negative impact on morale}
+Keywords                                : {workforce reduction, efficiency,  RIFs, hiring freeze…}
+Authority granted to                    : Agency Heads and the Director of OPM
+Impacted entities                       : Federal employees, contractors
+Budgetary impact                        : Decrease in federal spending
+Enforcement Mechanism                   : Reporting requirements, potential disciplinary action for non-compliance
+Implementation timeline                 : Immediate, with reporting deadlines within 30 and 240 days
+Long-term Impact                        : Potential long-term reduction in the size of the federal workforce and changes to agency operations
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : Resistance from federal employees and unions, potential legal challenges
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : All Federal Agencies
+Interaction with Other Laws/Regulations : Potentially impacts various laws regarding hiring, firing, and agency operations
+Delegated Powers                        : 
+Revocation/Modification Process         : Standard presidential revocation or amendment process
+Political Context                       : Part of a broader conservative agenda focused on reducing government size and spending
+Priority Areas Addressed                : Government efficiency, workforce reduction
+Compliance Requirements                 : Reporting requirements for agencies and OPM
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : USDS Administrator report to the President
+Temporary vs. Permanent Measures        : Permanent changes to hiring and RIF policies
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : Monthly reports from DOGE Team Leads to USDS Administrator
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : Significant potential impact on federal employees
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Reports required to be submitted
+Public Engagement or Consultation       : 
+

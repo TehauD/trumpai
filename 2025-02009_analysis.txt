@@ -1,0 +1,57 @@
+
+Order number                            : 14161
+Date signed                             : January 20, 2025
+Signed by                               : The President (Donald Trump)
+Detailed Summary                        : This executive order focuses on enhancing vetting and screening of aliens seeking admission to the United States. It aims to protect national security and public safety by identifying potential threats and ensuring that admitted aliens do not harbor hostile attitudes towards the U.S., its citizens, culture, government or institutions.
+                                          
+                                          The order directs the Secretary of State, in coordination with other agencies, to identify resources for enhanced vetting, determine information needs from foreign countries for visa applications, re-establish a uniform baseline for screening and vetting standards, and vet all aliens seeking admission, particularly those from high-risk regions.
+                                          
+                                          A report is required within 60 days identifying countries with deficient vetting information that may warrant suspension of admissions. The order also mandates the evaluation and adjustment of regulations related to grounds of inadmissibility, safeguarding against inadequate refugee identification verification, and reviewing visa programs for potential misuse by hostile actors.
+                                          
+                                          Furthermore, it recommends actions to protect Americans from foreign nationals undermining fundamental rights, ensuring adequate resources for offenses described in 8 U.S.C. 1451, evaluating assimilation programs, and recommending additional measures to protect the nation from threats.
+Agency Impacted                         : Department of State, Department of Justice, Department of Homeland Security, Office of the Director of National Intelligence
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {immigration, national security, vetting, screening…}
+Authority granted to                    : Secretary of State
+Impacted entities                       : Aliens seeking admission to the United States, refugees, foreign governments
+Budgetary impact                        : Subject to availability of appropriations
+Enforcement Mechanism                   : Department of Homeland Security
+Implementation timeline                 : 30 days for initial actions, 60 days for report submission
+Long-term Impact                        : Enhanced security measures, potential restrictions on immigration
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Aliens seeking admission to the United States
+Interaction with Other Laws/Regulations : Immigration and Nationality Act (INA)
+Delegated Powers                        : 
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : National security, immigration, terrorism
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

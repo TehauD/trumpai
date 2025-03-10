@@ -1,0 +1,51 @@
+
+Order number                            : 14194
+Date signed                             : February 1, 2025
+Signed by                               : Donald J. Trump
+Detailed Summary                        : This Executive Order imposes a 25% tariff on products from Mexico to address the influx of illegal aliens and illicit drugs across the US southern border. It cites the International Emergency Economic Powers Act (IEEPA) and the National Emergencies Act (NEA) as legal authority. The order declares a national emergency, criticizes Mexico's inaction in stemming the tide of migration and drug trafficking, and authorizes the Secretary of Homeland Security to implement the tariffs and report to Congress on progress.
+Agency Impacted                         : Department of Homeland Security
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : IEEPA, NEA, Trade Act of 1974, Section 301 of Title 3, US Code
+Pros                                    : {Potential reduction in illegal immigration and drug trafficking., May pressure Mexico to cooperate on border security issues.}
+Cons                                    : {Increased costs for consumers due to tariffs., Strained relations with Mexico., Potential retaliation from Mexico with its own tariffs., Possible negative impact on the US economy.}
+Keywords                                : {immigration, drugs, tariffs, Mexico…}
+Authority granted to                    : Secretary of Homeland Security
+Impacted entities                       : {Mexican government, US consumers, Businesses importing goods from Mexico}
+Budgetary impact                        : Increased revenue from tariffs, potential cost increases due to retaliatory measures.
+Enforcement Mechanism                   : Tariffs imposed on products imported from Mexico.
+Implementation timeline                 : Immediate
+Long-term Impact                        : Uncertain, depends on Mexico's response and the effectiveness of the tariffs in achieving their intended goals.
+Stakeholder Reactions                   : Likely to be mixed, with support from those concerned about border security and opposition from businesses and consumers impacted by the tariffs.
+Historical Context                      : Previous administrations have also struggled with immigration and drug trafficking issues at the southern border. This executive order represents a more aggressive approach.
+Implementation Challenges               : Potential for legal challenges, difficulty in accurately identifying products from Mexico, risk of retaliation from Mexico.
+Public Perception                       : Likely to be divided along partisan lines, with strong opinions both for and against the tariffs.
+Legal Precedents                        : IEEPA, NEA, previous executive orders on trade and immigration.
+Executive Order Comparisons             : Compare to past executive orders related to immigration, trade, and national emergencies. 
+Executive Order Duration                : Not specified, likely until the national emergency is declared over or revoked.
+Scope of Applicability                  : Products imported from Mexico.
+Interaction with Other Laws/Regulations : May conflict with existing trade agreements or regulations.
+Delegated Powers                        : Secretary of Homeland Security authorized to implement tariffs and report to Congress.
+Revocation/Modification Process         : President has the power to revoke or modify the order.
+Political Context                       : Highly partisan issue, likely to be debated in Congress and the media.
+Priority Areas Addressed                : Border security, immigration control, drug trafficking.
+Compliance Requirements                 : Businesses importing goods from Mexico must comply with the new tariffs. 
+Court Involvement                       : Possible legal challenges to the order's constitutionality or legality.
+Impact on International Relations       : Strained relations with Mexico and potential damage to trade relationships.
+Enabling Legislation                    : IEEPA, NEA
+Review and Oversight Mechanism          : Congress is tasked with receiving reports from the Secretary of Homeland Security on the implementation of the order.
+Temporary vs. Permanent Measures        : Not specified, but likely intended as a temporary measure until Mexico takes action to address the issues.
+Environmental Considerations            : Not specifically addressed in the text.
+Civil Liberties Considerations          : Potential concerns about profiling and discrimination against individuals based on their national origin.
+Public Health Impact                    : Indirect impact due to potential changes in drug trafficking patterns. 
+Data and Reporting Requirements         : Secretary of Homeland Security required to submit reports to Congress on the implementation of the order.
+Security Implications                   : Potential for increased border security measures and heightened tensions with Mexico.
+Partisan Support/Opposition             : Likely to be highly partisan, with Republicans more supportive and Democrats more opposed.
+Executive Action Precedent              : Similar executive orders on trade and immigration have been issued in the past.
+Economic Sector Impact                  : Impact on businesses that import goods from Mexico, potential cost increases for consumers. 
+Labor/Workforce Impact                  : Potential job losses in industries impacted by the tariffs.
+Technological Impact                    : Not specifically addressed in the text.
+Social Justice Considerations           : Concerns about discriminatory impacts on immigrant communities and minorities.
+Transparency                            : Reports to Congress required, but the level of detail may vary.
+Public Engagement or Consultation       : No evidence of public engagement or consultation prior to issuing the order. 
+

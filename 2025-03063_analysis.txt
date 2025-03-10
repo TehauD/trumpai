@@ -1,0 +1,51 @@
+
+Order number                            : 14215
+Date signed                             : February 18, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order aims to increase presidential supervision and control over independent regulatory agencies. It mandates review of proposed regulations by the Office of Information and Regulatory Affairs (OIRA), establishes performance standards for agency heads, allows adjustments to agency budgets based on presidential priorities, and requires regular consultation between agencies and the White House.
+Agency Impacted                         : Independent regulatory agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Increased accountability of independent agencies to the President and ultimately the American people., More unified and coherent execution of federal law.}
+Cons                                    : {Potential for politicization of regulatory decisions., Reduced autonomy of independent agencies.}
+Keywords                                : {accountability, regulatory agencies, executive power, presidential supervision…}
+Authority granted to                    : The President
+Impacted entities                       : Independent regulatory agencies, employees of independent regulatory agencies
+Budgetary impact                        : Allows for adjustments to agency budgets based on presidential priorities.
+Enforcement Mechanism                   : Presidential oversight and control, OIRA review of regulations
+Implementation timeline                 : Within 60 days from the date of the order, or completion of implementation guidance.
+Long-term Impact                        : Potential for increased centralization of power within the executive branch and a shift in the balance of power between the President and independent agencies.
+Stakeholder Reactions                   : 
+Historical Context                      : Previous administrations have allowed for significant autonomy among independent regulatory agencies.
+Implementation Challenges               : Resistance from independent agencies accustomed to greater autonomy.
+Public Perception                       : 
+Legal Precedents                        : Executive Order 12866 of September 30, 1993 (Regulatory Planning and Review)
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : All executive departments and agencies, including independent regulatory agencies.
+Interaction with Other Laws/Regulations : Requires review of regulations under the Administrative Procedure Act.
+Delegated Powers                        : Power to adjust agency budgets based on presidential priorities delegated to the Director of OMB
+Revocation/Modification Process         : 
+Political Context                       : Issued during a period of heightened focus on regulatory reform and government accountability.
+Priority Areas Addressed                : Regulatory oversight, executive branch accountability
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : OIRA review of regulations, reporting by independent agency heads to the President on performance standards.
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : Previous executive orders have sought to streamline regulatory processes and enhance presidential oversight.
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Requires agency strategic plans to be submitted to OMB for clearance prior to finalization.
+Public Engagement or Consultation       : Requires independent regulatory agencies to establish a White House Liaison position.
+

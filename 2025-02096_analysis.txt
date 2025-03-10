@@ -1,0 +1,51 @@
+
+Order number                            : 14172
+Date signed                             : January 20, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order aims to restore the names of American landmarks and geographic features to honor individuals considered American heroes. It specifically reinstates the name "Mount McKinley" and renames the "Gulf of Mexico" to the "Gulf of America". The order also directs the review and potential replacement of members on the U.S. Board on Geographic Names and encourages the consideration of additional patriotic figures for future naming honors.
+Agency Impacted                         : Department of the Interior, U.S. Board on Geographic Names
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Honors American heroes, Reinstates historical names}
+Cons                                    : {Potentially controversial renaming decisions, May be seen as politically motivated}
+Keywords                                : {Mount McKinley, Gulf of America, Geographic Names, American Heroes…}
+Authority granted to                    : Secretary of the Interior, U.S. Board on Geographic Names
+Impacted entities                       : Alaska Native entities, state and local organizations, agencies with authority over geographic naming
+Budgetary impact                        : 
+Enforcement Mechanism                   : Secretary of the Interior oversight, potential legal challenges
+Implementation timeline                 : 30 days for renaming actions
+Long-term Impact                        : Potential for future renaming controversies, shifting national narratives around historical figures
+Stakeholder Reactions                   : Likely mixed reactions from various groups with differing perspectives on the honored individuals and the renaming process
+Historical Context                      : Previous renaming of Mount McKinley to Denali in 2015 by Obama administration
+Implementation Challenges               : Balancing diverse perspectives, addressing potential legal challenges
+Public Perception                       : Likely polarized public opinion due to the politically charged nature of the renaming decisions
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : National
+Interaction with Other Laws/Regulations : 43 U.S.C. 364 through 364f (related to geographic naming)
+Delegated Powers                        : 
+Revocation/Modification Process         : Subject to future presidential actions or legal challenges
+Political Context                       : Aligned with the Trump administration's focus on nationalism and promoting American exceptionalism
+Priority Areas Addressed                : National identity, historical revisionism
+Compliance Requirements                 : 
+Court Involvement                       : Potential for lawsuits challenging the legality of the renaming decisions
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Presidential oversight, potential Congressional review
+Temporary vs. Permanent Measures        : Permanent renaming actions
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely strong partisan divide along political lines
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : Limited public engagement explicitly mentioned
+

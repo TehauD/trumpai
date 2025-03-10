@@ -1,0 +1,51 @@
+
+Order number                            : 14216
+Date signed                             : February 18, 2025
+Signed by                               : President Biden
+Detailed Summary                        : This executive order aims to expand access to in vitro fertilization (IVF) treatment for Americans struggling with infertility. It directs the Assistant to the President for Domestic Policy to recommend policies that protect IVF access and reduce costs associated with IVF treatments.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Expands access to IVF treatment, Aims to make IVF more affordable}
+Cons                                    : {}
+Keywords                                : {IVF, fertility, access to healthcare, affordable treatment}
+Authority granted to                    : Assistant to the President for Domestic Policy
+Impacted entities                       : {Individuals experiencing infertility, Healthcare providers, Insurance companies}
+Budgetary impact                        : Not specified, but aims to reduce costs associated with IVF treatment.
+Enforcement Mechanism                   : 
+Implementation timeline                 : 90 days from February 18, 2025
+Long-term Impact                        : Increased access to fertility treatments for Americans
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Nationwide
+Interaction with Other Laws/Regulations : Directs policy recommendations to be consistent with applicable law
+Delegated Powers                        : True
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : {Healthcare access, Family formation}
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential increase in successful pregnancies
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : {Healthcare industry}
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Access to healthcare for all}
+Transparency                            : True
+Public Engagement or Consultation       : 
+

@@ -1,0 +1,50 @@
+
+Order number                            : 14197
+Date signed                             : February 3, 2025
+Signed by                               : President [Trump]
+Detailed Summary                        : This executive order pauses the implementation of tariffs on Canadian goods announced in a previous executive order. The pause is intended to allow time for the Canadian government to take steps to address the illegal migration and illicit drug crises at the northern border. If Canada fails to take sufficient action, the tariffs will be implemented.
+Agency Impacted                         : Various agencies including Department of Homeland Security, State Department, Justice Department
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Potential for Canada to address border crises, Avoidance of immediate trade conflict}
+Cons                                    : {Potential escalation if Canada does not act, Harm to US-Canada relations}
+Keywords                                : {Border security, Trade tariffs, Canada, Immigration…}
+Authority granted to                    : Secretary of Homeland Security, in consultation with other officials
+Impacted entities                       : Canadian government, US businesses, consumers
+Budgetary impact                        : Potentially significant depending on tariff implementation
+Enforcement Mechanism                   : Tariffs on Canadian goods
+Implementation timeline                 : Immediate pause, potential for full implementation on March 4, 2025
+Long-term Impact                        : Unknown, depends on Canada's response and future border situation
+Stakeholder Reactions                   : 
+Historical Context                      : Previous executive order imposing tariffs on February 1, 2025
+Implementation Challenges               : Ensuring Canada takes sufficient action, managing potential trade disputes
+Public Perception                       : 
+Legal Precedents                        : Presidential authority to impose tariffs under IEEPA and other laws
+Executive Order Comparisons             : Previous executive order of February 1, 2025
+Executive Order Duration                : Potentially temporary depending on situation at the border
+Scope of Applicability                  : Imports from Canada
+Interaction with Other Laws/Regulations : Interacts with International Emergency Economic Powers Act and other trade laws
+Delegated Powers                        : To Secretary of Homeland Security and other officials
+Revocation/Modification Process         : Through subsequent executive order
+Political Context                       : Strained US-Canada relations, concerns about border security
+Priority Areas Addressed                : Border security, illegal immigration, drug trafficking
+Compliance Requirements                 : For Canadian government to take action to address the crises
+Court Involvement                       : 
+Impact on International Relations       : Potential for strained relations with Canada
+Enabling Legislation                    : International Emergency Economic Powers Act, National Emergencies Act
+Review and Oversight Mechanism          : Congressional oversight
+Temporary vs. Permanent Measures        : Potentially temporary depending on situation
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : Potential for increased border security measures
+Partisan Support/Opposition             : 
+Executive Action Precedent              : Use of tariffs as a foreign policy tool
+Economic Sector Impact                  : Potential impact on industries that trade with Canada
+Labor/Workforce Impact                  : Potential job losses in affected industries
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Limited transparency regarding assessment of Canada's actions
+

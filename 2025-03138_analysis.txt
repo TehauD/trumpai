@@ -1,0 +1,51 @@
+
+Order number                            : 14219
+Date signed                             : February 19, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order directs federal agencies to review existing regulations and prioritize enforcement of those deemed lawful and consistent with Administration policy. It aims to reduce regulatory burden on businesses and individuals by rescinding or modifying regulations deemed unconstitutional, exceeding statutory authority, or imposing undue costs.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Reduce regulatory burden, Promote economic growth}
+Cons                                    : {Potential weakening of environmental and social protections, Challenges to implementation and enforcement}
+Keywords                                : {Regulatory Reform, Deregulation, Executive Power, Administrative State…}
+Authority granted to                    : Agency heads
+Impacted entities                       : Businesses, individuals, federal agencies
+Budgetary impact                        : Potentially reduced spending on enforcement
+Enforcement Mechanism                   : Review and termination of enforcement proceedings
+Implementation timeline                 : 60 days for initial review
+Long-term Impact                        : Potential shift in regulatory landscape towards deregulation
+Stakeholder Reactions                   : Mixed reactions from businesses, advocacy groups, and legal experts
+Historical Context                      : Part of a broader trend of deregulation efforts by the Trump Administration
+Implementation Challenges               : Complexity of regulations, potential legal challenges
+Public Perception                       : Divided public opinion on the merits of deregulation
+Legal Precedents                        : Executive Order 12866 (Regulatory Planning and Review)
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Federal agencies subject to executive branch authority
+Interaction with Other Laws/Regulations : Aims to align regulations with statutory authority
+Delegated Powers                        : 
+Revocation/Modification Process         : Outlined in the order through agency review and OIRA consultation
+Political Context                       : Part of a conservative agenda emphasizing limited government intervention
+Priority Areas Addressed                : Economic growth, reducing regulatory burden
+Compliance Requirements                 : Agencies required to submit lists of regulations for review
+Court Involvement                       : Potential legal challenges to the order's implementation
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : OIRA oversight and potential Congressional scrutiny
+Temporary vs. Permanent Measures        : Intended as a long-term shift in regulatory approach
+Environmental Considerations            : Potential weakening of environmental regulations
+Civil Liberties Considerations          : Potential impact on individual rights and freedoms
+Public Health Impact                    : Potential impact on public health regulations
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Strong support from Republicans, opposition from Democrats
+Executive Action Precedent              : Continues trend of executive actions aimed at deregulation
+Economic Sector Impact                  : Broad impact across various economic sectors
+Labor/Workforce Impact                  : Potential impact on labor regulations and worker protections
+Technological Impact                    : Potential impact on regulations governing technology and innovation
+Social Justice Considerations           : Concerns about potential negative impacts on marginalized communities
+Transparency                            : Public disclosure of agency reviews and OIRA guidance
+Public Engagement or Consultation       : 
+

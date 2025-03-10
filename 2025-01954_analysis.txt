@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14152
+Date signed                             : January 20, 2025
+Signed by                               : Joseph R. Biden
+Detailed Summary                        : This executive order revokes security clearances of former intelligence officials who engaged in partisan political activity related to the 2020 presidential election. It cites their letter discrediting Hunter Biden's laptop story as an example of misuse of intelligence expertise for political gain. It also targets John Bolton for publishing classified information in his memoir.
+Agency Impacted                         : {Director of National Intelligence, Central Intelligence Agency}
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Holding individuals accountable for misusing intelligence community resources for political gain, Deterring future misuse of sensitive information}
+Cons                                    : {Potential chilling effect on free speech among former intelligence officials, Setting a precedent for revoking clearances based on political activity}
+Keywords                                : {Intelligence Community, Security Clearances, Political Interference, Election Interference…}
+Authority granted to                    : Director of National Intelligence, in consultation with the Director of the Central Intelligence Agency
+Impacted entities                       : {Former intelligence officials named in the order, John Bolton}
+Budgetary impact                        : 
+Enforcement Mechanism                   : Revocation of security clearances
+Implementation timeline                 : 90 days for report to President
+Long-term Impact                        : Potential decrease in trust in the Intelligence Community
+Stakeholder Reactions                   : 
+Historical Context                      : {Previous instances of politicization of intelligence, Concerns about foreign interference in US elections}
+Implementation Challenges               : Identifying all individuals who engaged in inappropriate activity, Determining appropriate disciplinary actions
+Public Perception                       : Likely divided along partisan lines
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : {Current and former intelligence officials, Individuals with security clearances}
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : Director of National Intelligence
+Revocation/Modification Process         : Presidential directive
+Political Context                       : Highly polarized political climate
+Priority Areas Addressed                : National Security, Election Integrity
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Report to President through National Security Advisor
+Temporary vs. Permanent Measures        : Permanent revocation of security clearances
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Free speech concerns for former intelligence officials}
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : Potential compromise of classified information if revoked clearances lead to disgruntled individuals seeking revenge
+Partisan Support/Opposition             : Likely strong support from Democrats, opposition from Republicans
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Report to President is public
+Public Engagement or Consultation       : 
+

@@ -1,0 +1,51 @@
+
+Order number                            : 14182
+Date signed                             : January 24, 2025
+Signed by                               : President [Implied, no name provided]
+Detailed Summary                        : This executive order revokes two previous orders and aims to prevent the use of federal funds for elective abortions, aligning with the longstanding Hyde Amendment.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Aligns with long-standing policy, Reflects consensus on taxpayer funding}
+Cons                                    : {Potential controversy surrounding abortion rights}
+Keywords                                : {Hyde Amendment, Abortion, Federal Funding, Executive Order}
+Authority granted to                    : Director of the Office of Management and Budget
+Impacted entities                       : {Executive departments and agencies}
+Budgetary impact                        : 
+Enforcement Mechanism                   : Guidance from the Director of the Office of Management and Budget
+Implementation timeline                 : 
+Long-term Impact                        : Potential shifts in access to abortion services
+Stakeholder Reactions                   : 
+Historical Context                      : Hyde Amendment history, previous administrations' actions
+Implementation Challenges               : 
+Public Perception                       : Likely divided along existing lines on abortion
+Legal Precedents                        : Hyde Amendment and related legislation
+Executive Order Comparisons             : {14076 of July 8, 2022, 14079 of August 3, 2022}
+Executive Order Duration                : 
+Scope of Applicability                  : Federal funding for elective abortions
+Interaction with Other Laws/Regulations : Hyde Amendment and related laws
+Delegated Powers                        : To the Director of the Office of Management and Budget
+Revocation/Modification Process         : Presidential order
+Political Context                       : {Abortion debate, Conservative political agenda}
+Priority Areas Addressed                : Healthcare, Social policy
+Compliance Requirements                 : Adherence to guidance from the Office of Management and Budget
+Court Involvement                       : Possible legal challenges
+Impact on International Relations       : 
+Enabling Legislation                    : Hyde Amendment and related laws
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : Permanent unless revoked by future administrations
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Abortion rights}
+Public Health Impact                    : Potential impact on access to abortion services
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely divided along party lines
+Executive Action Precedent              : Previous administrations' actions on the Hyde Amendment
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Reproductive rights}
+Transparency                            : Publicly available executive order
+Public Engagement or Consultation       : 
+

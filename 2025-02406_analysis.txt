@@ -1,0 +1,51 @@
+
+Order number                            : 14193
+Date signed                             : February 1, 2025
+Signed by                               : Donald J. Trump
+Detailed Summary                        : This executive order imposes a 25% tariff on Canadian goods due to the influx of illicit drugs across the northern border. The President declares a national emergency based on the public health crisis caused by fentanyl and other drug trafficking, arguing that Canada has failed to adequately address the problem. The order directs the Secretary of Homeland Security to monitor the situation, consult with other agencies, and recommend further action if necessary. Tariffs will be removed when the President determines that Canada has taken sufficient steps to alleviate the crisis.
+Agency Impacted                         : Department of Homeland Security
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : 
+Pros                                    : Addresses a serious public health crisis, puts pressure on Canada to cooperate.
+Cons                                    : Could damage relations with Canada, potentially harm US businesses and consumers
+Keywords                                : {illicit drugs, fentanyl, Canada, tariffs…}
+Authority granted to                    : Secretary of Homeland Security
+Impacted entities                       : {Canada, US businesses, Consumers}
+Budgetary impact                        : Increase in tariff revenue, potential increase in prices for US consumers
+Enforcement Mechanism                   : Tariffs imposed on Canadian goods
+Implementation timeline                 : Immediate
+Long-term Impact                        : Unclear, depends on Canada's response and the effectiveness of the tariffs.
+Stakeholder Reactions                   : 
+Historical Context                      : History of drug trafficking across US-Canada border, rising opioid crisis in the US.
+Implementation Challenges               : Potential retaliation from Canada, legal challenges to the tariffs.
+Public Perception                       : 
+Legal Precedents                        : Previous executive orders imposing tariffs
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Canadian goods imported into the US
+Interaction with Other Laws/Regulations : Harmonized Tariff Schedule of the United States (HTSUS)
+Delegated Powers                        : Secretary of Homeland Security to consult with other agencies, recommend further action, and implement the order.
+Revocation/Modification Process         : President can modify or terminate the order at any time
+Political Context                       : Trump administration's focus on border security and trade
+Priority Areas Addressed                : National security, public health
+Compliance Requirements                 : Canadian government to take steps to reduce drug trafficking
+Court Involvement                       : Potential legal challenges to the tariffs
+Impact on International Relations       : Strained relations with Canada
+Enabling Legislation                    : International Emergency Economic Powers Act (IEEPA), National Emergencies Act (NEA)
+Review and Oversight Mechanism          : Congressional reporting requirements
+Temporary vs. Permanent Measures        : Intended to be temporary, contingent on Canada's actions
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential reduction in drug trafficking and overdose deaths
+Data and Reporting Requirements         : Reports to Congress on the national emergency
+Security Implications                   : Increased border security measures
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Potential impact on industries that import goods from Canada
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Order published in the Federal Register
+Public Engagement or Consultation       : 
+

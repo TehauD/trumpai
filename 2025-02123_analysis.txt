@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14178
+Date signed                             : January 23, 2025
+Signed by                               : President [Name redacted]
+Detailed Summary                        : This executive order focuses on strengthening American leadership in digital financial technology. It aims to promote the responsible growth and use of digital assets, blockchain technology, and related technologies while protecting economic liberty. The order revokes a previous order (Executive Order 14067) and establishes a new working group to develop regulatory and legislative proposals for the digital asset sector.
+Agency Impacted                         : Multiple agencies are impacted including Treasury, Justice, Commerce, Homeland Security, SEC, CFTC
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Supports innovation and economic development in the US., Protects individual citizens' ability to access and use blockchain networks., Promotes the stability and growth of dollar-backed stablecoins., Provides regulatory clarity and certainty for the digital asset sector.…}
+Cons                                    : {Potential for increased regulatory burden on businesses in the digital asset sector.}
+Keywords                                : {Digital Assets, Blockchain, Cryptocurrency, Stablecoins…}
+Authority granted to                    : President's Working Group on Digital Asset Markets
+Impacted entities                       : Individuals, private-sector entities, financial institutions, technology companies involved in digital assets
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : Regulatory and legislative measures
+Implementation timeline                 : Within 180 days for initial report from the Working Group
+Long-term Impact                        : Significant potential impact on the development and adoption of digital assets in the US.
+Stakeholder Reactions                   : Likely to be mixed, with support from proponents of digital asset innovation and opposition from those concerned about regulatory burdens or potential risks.
+Historical Context                      : Builds upon previous efforts to regulate and understand digital assets, such as Executive Order 14067.
+Implementation Challenges               : Balancing innovation with consumer protection and financial stability
+Public Perception                       : Likely divided along existing lines regarding cryptocurrency and digital assets.
+Legal Precedents                        : Previous executive orders related to financial technology and regulation.
+Executive Order Comparisons             : Revokes Executive Order 14067
+Executive Order Duration                : Not specified, but likely ongoing until further action taken by the President or Congress.
+Scope of Applicability                  : United States
+Interaction with Other Laws/Regulations : Aims to align with existing laws and regulations while proposing new ones.
+Delegated Powers                        : Granted to the President's Working Group on Digital Asset Markets
+Revocation/Modification Process         : Can be revoked or modified by future executive orders or legislation.
+Political Context                       : Reflects current political discourse surrounding digital assets and the role of government in their regulation.
+Priority Areas Addressed                : Innovation, economic growth, financial stability, consumer protection.
+Compliance Requirements                 : Will depend on specific regulations and guidance developed by the Working Group.
+Court Involvement                       : Possible legal challenges to the order or subsequent regulations
+Impact on International Relations       : Could influence global discussions and policies related to digital assets.
+Enabling Legislation                    : May lead to new legislation from Congress addressing digital assets.
+Review and Oversight Mechanism          : Through the President's Working Group and potentially congressional oversight committees.
+Temporary vs. Permanent Measures        : Aims for lasting regulatory framework, but specific measures may be adjusted over time.
+Environmental Considerations            : Not explicitly addressed in the order.
+Civil Liberties Considerations          : Protects individual citizens' ability to access and use blockchain networks.
+Public Health Impact                    : Not applicable
+Data and Reporting Requirements         : Likely to include data reporting requirements for digital asset businesses.
+Security Implications                   : Addresses potential security risks associated with CBDCs.
+Partisan Support/Opposition             : Likely to be divided along party lines.
+Executive Action Precedent              : Establishes a precedent for executive branch involvement in regulating emerging technologies.
+Economic Sector Impact                  : Significant impact on the financial technology sector and potentially other industries.
+Labor/Workforce Impact                  : Potential for new job creation in the digital asset sector.
+Technological Impact                    : Promotes innovation and development of blockchain and related technologies.
+Social Justice Considerations           : Not explicitly addressed, but could have implications for financial inclusion.
+Transparency                            : Emphasizes transparency through public hearings and expert input.
+Public Engagement or Consultation       : Encourages public engagement through hearings and expertise from leaders in the digital asset sector.
+

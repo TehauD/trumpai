@@ -1,0 +1,51 @@
+
+Order number                            : 14198
+Date signed                             : February 3, 2025
+Signed by                               : President of the United States
+Detailed Summary                        : This Executive Order pauses the implementation of tariffs on Mexican goods that was ordered in a previous Executive Order (dated February 1, 2025) to give Mexico more time to take action against drug trafficking and illegal migration. The order notes that Mexico has taken some steps but that further assessment is needed.
+Agency Impacted                         : Multiple agencies including Homeland Security, State, Justice
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {Mexico, tariffs, illegal immigration, drug trafficking…}
+Authority granted to                    : Secretary of Homeland Security in consultation with other officials
+Impacted entities                       : {Mexico, US Businesses importing goods from Mexico}
+Budgetary impact                        : Potential loss of tariff revenue if tariffs are not implemented, potential costs associated with assessing the situation.
+Enforcement Mechanism                   : Implementation or withholding of tariffs
+Implementation timeline                 : March 4, 2025 at 12:01 am eastern time
+Long-term Impact                        : Dependent on Mexico's actions to address the stated crises
+Stakeholder Reactions                   : 
+Historical Context                      : Previous Executive Order imposing tariffs issued February 1, 2025
+Implementation Challenges               : Mexico's cooperation, assessing the effectiveness of Mexico's actions
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : Executive Order 14197 (February 1, 2025)
+Executive Order Duration                : 
+Scope of Applicability                  : Imports from Mexico
+Interaction with Other Laws/Regulations : International Emergency Economic Powers Act, National Emergencies Act, Trade Act of 1974, Section 301 of Title 3, United States Code
+Delegated Powers                        : Authority delegated to Secretary of Homeland Security and other officials
+Revocation/Modification Process         : Through subsequent Executive Order
+Political Context                       : Concerns about border security and illegal immigration
+Priority Areas Addressed                : Border security, drug trafficking, illegal immigration
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : Potential for strained relations with Mexico
+Enabling Legislation                    : International Emergency Economic Powers Act, National Emergencies Act, Trade Act of 1974, Section 301 of Title 3, United States Code
+Review and Oversight Mechanism          : Assessment by the Secretary of Homeland Security
+Temporary vs. Permanent Measures        : Temporary pause on tariffs
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : Potential for increased illegal migration if Mexico's actions are deemed insufficient
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Potential impact on businesses importing goods from Mexico
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Order published in Federal Register
+Public Engagement or Consultation       : 
+

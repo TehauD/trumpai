@@ -1,0 +1,51 @@
+
+Order number                            : 14199
+Date signed                             : February 4, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order withdraws the United States from and ends funding to certain United Nations organizations, including the UN Human Rights Council (UNHRC), the UN Educational, Scientific, and Cultural Organization (UNESCO), and the UN Relief and Works Agency for Palestine Refugees in the Near East (UNRWA). The order cites concerns about these organizations' missions drifting from promoting international peace and security, their actions against US interests and allies, and instances of anti-Semitism. It directs a review of US membership in UNESCO and mandates that no funds be used for contributions to UNRWA or the UNHRC.
+Agency Impacted                         : Multiple United Nations agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Withdrawal from organizations perceived as hostile to US interests, Potential cost savings from ending funding}
+Cons                                    : {Damage to international relationships and cooperation, Potential negative impact on humanitarian efforts}
+Keywords                                : {United Nations, UNHRC, UNESCO, UNRWA…}
+Authority granted to                    : President of the United States
+Impacted entities                       : {United Nations organizations, International community, Palestinian refugees}
+Budgetary impact                        : Reduction in funding for UN organizations
+Enforcement Mechanism                   : Executive departments and agencies are directed to comply with the order's provisions.
+Implementation timeline                 : Immediate effect with review deadlines specified
+Long-term Impact                        : Potential shift in US foreign policy and international relations
+Stakeholder Reactions                   : Likely to be mixed, with support from some groups and opposition from others
+Historical Context                      : Previous US withdrawal from UNHRC in 2018
+Implementation Challenges               : Resistance from UN organizations, potential legal challenges
+Public Perception                       : Likely divided along partisan lines
+Legal Precedents                        : Previous executive orders related to international agreements and funding
+Executive Order Comparisons             : Comparable to previous withdrawals from international agreements
+Executive Order Duration                : Indefinite until revoked or modified
+Scope of Applicability                  : Applies to US interaction with specific UN organizations
+Interaction with Other Laws/Regulations : May conflict with existing treaty obligations
+Delegated Powers                        : Secretary of State and UN Ambassador delegated responsibilities
+Revocation/Modification Process         : Subject to future executive orders by the President
+Political Context                       : Aligned with a more isolationist foreign policy approach
+Priority Areas Addressed                : National security, protection of US interests
+Compliance Requirements                 : Executive departments and agencies required to follow order's directives
+Court Involvement                       : Possible legal challenges regarding constitutionality or legality
+Impact on International Relations       : Strained relations with UN and member states
+Enabling Legislation                    : Derived from the President's authority under the Constitution and existing laws
+Review and Oversight Mechanism          : Internal review by Secretary of State and UN Ambassador
+Temporary vs. Permanent Measures        : Indefinite duration unless revoked or modified
+Environmental Considerations            : Not directly addressed in the order
+Civil Liberties Considerations          : Potential concerns regarding freedom of speech and association within UN organizations
+Public Health Impact                    : Possible indirect impact on humanitarian aid and disease prevention efforts
+Data and Reporting Requirements         : May include reporting on UN funding and activities
+Security Implications                   : Potential for increased instability and terrorism due to reduced UN involvement
+Partisan Support/Opposition             : Likely supported by Republicans, opposed by Democrats
+Executive Action Precedent              : Establishes a precedent for future withdrawals from international organizations
+Economic Sector Impact                  : Minimal direct impact, potential indirect effects on industries related to foreign aid or diplomacy
+Labor/Workforce Impact                  : Negligible impact on US workforce
+Technological Impact                    : No significant technological implications
+Social Justice Considerations           : Concerns about the impact on Palestinian refugees and human rights
+Transparency                            : Order is publicly available but details of reviews may not be disclosed
+Public Engagement or Consultation       : Limited public engagement evident in the order's development
+

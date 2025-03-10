@@ -1,0 +1,51 @@
+
+Order number                            : 14176
+Date signed                             : January 23, 2025
+Signed by                               : President Biden
+Detailed Summary                        : This executive order directs the declassification and release of records related to the assassinations of President John F. Kennedy, Senator Robert F. Kennedy, and the Reverend Dr. Martin Luther King Jr. It acknowledges the importance of transparency and public interest in these historical events.
+Agency Impacted                         : Multiple federal agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Transparency, Public interest, Historical significance}
+Cons                                    : {Potential national security concerns, Privacy issues}
+Keywords                                : {Declassification, Assassination, Records, JFK…}
+Authority granted to                    : Director of National Intelligence and the Attorney General
+Impacted entities                       : Families of victims, American public, historians, researchers
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : Presidential directive, potential for legal action
+Implementation timeline                 : 15 days for JFK records, 45 days for RFK and MLK records
+Long-term Impact                        : Increased transparency regarding historical events, potential for new information or insights
+Stakeholder Reactions                   : Likely positive from families and public interest groups, potential concerns from intelligence agencies
+Historical Context                      : Previous attempts to declassify JFK assassination records under the President John F. Kennedy Assassination Records Collection Act of 1992.
+Implementation Challenges               : Balancing transparency with national security concerns, potential for redactions
+Public Perception                       : Likely positive, seen as a step towards truth and accountability
+Legal Precedents                        : President John F. Kennedy Assassination Records Collection Act of 1992
+Executive Order Comparisons             : Not specified
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : Records related to the assassinations of JFK, RFK, and MLK Jr.
+Interaction with Other Laws/Regulations : President John F. Kennedy Assassination Records Collection Act of 1992
+Delegated Powers                        : Director of National Intelligence and Attorney General
+Revocation/Modification Process         : Presidential action
+Political Context                       : Biden administration's focus on transparency and accountability
+Priority Areas Addressed                : Transparency, historical accuracy
+Compliance Requirements                 : Agencies must submit plans for declassification within specified timelines
+Court Involvement                       : Not anticipated unless legal challenges arise regarding redactions
+Impact on International Relations       : Unlikely to be significant
+Enabling Legislation                    : President John F. Kennedy Assassination Records Collection Act of 1992
+Review and Oversight Mechanism          : Presidential oversight, potential for Congressional hearings
+Temporary vs. Permanent Measures        : Permanent declassification
+Environmental Considerations            : Not applicable
+Civil Liberties Considerations          : Potential for disclosure of personal information
+Public Health Impact                    : Not applicable
+Data and Reporting Requirements         : Agencies must report progress on declassification to the President
+Security Implications                   : Potential for release of classified information
+Partisan Support/Opposition             : Likely bipartisan support
+Executive Action Precedent              : Previous presidents have declassified documents related to national security matters
+Economic Sector Impact                  : Not significant
+Labor/Workforce Impact                  : Not significant
+Technological Impact                    : Not significant
+Social Justice Considerations           : Potential for shedding light on racial injustice and inequality
+Transparency                            : High
+Public Engagement or Consultation       : Not specified
+

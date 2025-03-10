@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14162
+Date signed                             : January 20, 2025
+Signed by                               : Donald J. Trump
+Detailed Summary                        : This executive order withdraws the United States from the Paris Agreement, a global pact aimed at combating climate change. It asserts that the agreement harms American economic interests and unfairly burdens the country. The order directs various government agencies to cease or revoke financial commitments related to the agreement and prioritize economic considerations in international energy engagements.
+Agency Impacted                         : Multiple federal agencies, including but not limited to: State Department, Treasury Department, Commerce Department, Health and Human Services, Energy Department, Agriculture Department, Environmental Protection Agency, U.S. Agency for International Development, International Development Finance Corporation, Millennium Challenge Corporation, U.S. Trade and Development Agency, Export-Import Bank.
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Prioritizes US economic interests, Removes financial commitments to the Paris Agreement}
+Cons                                    : {Withdraws from a global agreement on climate change, May damage US international reputation, Potential negative environmental impact}
+Keywords                                : {Paris Agreement, Climate Change, International Agreements, Economic Interests…}
+Authority granted to                    : The President of the United States
+Impacted entities                       : United Nations, International community, American citizens, businesses involved in international energy sectors.
+Budgetary impact                        : Potential cost savings from ceasing financial commitments to the Paris Agreement. However, potential long-term costs associated with climate change not addressed.
+Enforcement Mechanism                   : Executive order carries the force of law.
+Implementation timeline                 : Immediate
+Long-term Impact                        : Uncertain, but could include: Increased greenhouse gas emissions, strained international relationships, decreased US leadership in global environmental efforts.
+Stakeholder Reactions                   : Likely divided, with environmental groups expressing concern and business interests potentially supporting the move.
+Historical Context                      : Part of a broader trend of withdrawing from international agreements and prioritizing American sovereignty.
+Implementation Challenges               : Potential legal challenges, resistance from international partners.
+Public Perception                       : Polarizing, likely dividing public opinion along partisan lines.
+Legal Precedents                        : Previous executive orders withdrawing from treaties and international agreements.
+Executive Order Comparisons             : Could be compared to other executive orders related to environmental policy, such as those issued by previous administrations.
+Executive Order Duration                : Indefinite unless revoked by a subsequent president or overturned by Congress.
+Scope of Applicability                  : Global, affecting US involvement in international climate change negotiations and agreements.
+Interaction with Other Laws/Regulations : Could potentially conflict with existing environmental laws and regulations.
+Delegated Powers                        : Powers delegated to various federal agencies to implement the provisions of the executive order.
+Revocation/Modification Process         : Can be revoked or modified by a subsequent president through another executive order.
+Political Context                       : Issued in a politically polarized climate, reflecting the administration's stance on climate change and international cooperation.
+Priority Areas Addressed                : Economic competitiveness, national sovereignty, energy policy.
+Compliance Requirements                 : Federal agencies are required to take specific actions outlined in the executive order.
+Court Involvement                       : Potential for legal challenges from environmental groups or states opposed to the withdrawal from the Paris Agreement.
+Impact on International Relations       : Strained relationships with countries committed to the Paris Agreement.
+Enabling Legislation                    : None specifically mentioned, but relies on the President's inherent authority as Chief Executive.
+Review and Oversight Mechanism          : Congressional oversight, potential judicial review.
+Temporary vs. Permanent Measures        : Permanent unless revoked by a subsequent administration.
+Environmental Considerations            : Neglects the environmental impacts of withdrawing from the Paris Agreement.
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential negative impacts on public health due to increased air pollution and climate-related disasters.
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely divided along partisan lines
+Executive Action Precedent              : Sets a precedent for future presidents withdrawing from international agreements.
+Economic Sector Impact                  : Mixed, with potential benefits for certain industries but potential harm to others reliant on climate-friendly policies.
+Labor/Workforce Impact                  : Potential job losses in sectors related to clean energy and environmental protection.
+Technological Impact                    : Could stifle innovation in clean energy technologies.
+Social Justice Considerations           : Disproportionate impact on vulnerable communities most affected by climate change.
+Transparency                            : Limited transparency regarding the decision-making process leading up to the executive order.
+Public Engagement or Consultation       : No mention of public consultation prior to issuing the executive order.
+

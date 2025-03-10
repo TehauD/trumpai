@@ -1,0 +1,51 @@
+
+Order number                            : 14179
+Date signed                             : January 23, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order revokes certain existing AI policies and directives that act as barriers to American AI innovation. It aims to solidify the United States' position as the global leader in AI.
+Agency Impacted                         : Multiple agencies, including those focused on science and technology, national security, economic policy, domestic policy, and management and budget
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : Promote human flourishing, economic competitiveness, and national security.
+Cons                                    : Potential for bias in AI development, ethical concerns surrounding AI.
+Keywords                                : {Artificial Intelligence, AI, Innovation, Leadership…}
+Authority granted to                    : Assistant to the President for Science and Technology (APST), Special Advisor for AI and Crypto, Assistant to the President for National Security Affairs (APNSA)
+Impacted entities                       : US Government agencies, AI researchers and developers, businesses involved in AI
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : Review and revision of existing policies, development of an action plan
+Implementation timeline                 : 180 days for action plan development
+Long-term Impact                        : Solidify US leadership in AI
+Stakeholder Reactions                   : Likely mixed, with support from technology companies and opposition from those concerned about ethical implications.
+Historical Context                      : Builds on previous executive orders related to AI, but revokes some of them.
+Implementation Challenges               : Coordinating efforts across multiple agencies, addressing ethical concerns surrounding AI
+Public Perception                       : Mixed, with potential for both excitement and apprehension.
+Legal Precedents                        : Previous executive orders on AI
+Executive Order Comparisons             : Revokes Executive Order 14110 of October 30, 2023
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : United States
+Interaction with Other Laws/Regulations : Seeks to align existing policies and regulations with the goals of the order.
+Delegated Powers                        : APST, Special Advisor for AI and Crypto, APNSA
+Revocation/Modification Process         : Not specified
+Political Context                       : Reflects a focus on technological competitiveness and national security
+Priority Areas Addressed                : Artificial Intelligence
+Compliance Requirements                 : Revision of existing policies and regulations.
+Court Involvement                       : Unclear at this time
+Impact on International Relations       : Potential to increase tensions with countries competing for AI leadership.
+Enabling Legislation                    : Not specified
+Review and Oversight Mechanism          : Not specified
+Temporary vs. Permanent Measures        : Permanent
+Environmental Considerations            : Not addressed
+Civil Liberties Considerations          : Potential for misuse of AI, need for ethical guidelines.
+Public Health Impact                    : Not addressed
+Data and Reporting Requirements         : Not specified
+Security Implications                   : AI development could have both positive and negative security implications.
+Partisan Support/Opposition             : Likely to be a partisan issue
+Executive Action Precedent              : Establishes a precedent for future executive action on AI.
+Economic Sector Impact                  : Significant impact on the technology sector
+Labor/Workforce Impact                  : Potential job creation in AI-related fields, but also potential for job displacement.
+Technological Impact                    : Accelerated development of AI technologies
+Social Justice Considerations           : Need to ensure that AI development benefits all segments of society.
+Transparency                            : Limited information on implementation details
+Public Engagement or Consultation       : Not mentioned
+

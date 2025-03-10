@@ -1,0 +1,51 @@
+
+Order number                            : 14171
+Date signed                             : January 20, 2025
+Signed by                               : The President
+Detailed Summary                        : This Executive Order reinstates and amends Executive Order 13957 (Creating Schedule F in the Excepted Service), aiming to restore accountability within the career civil service, particularly for policy-influencing positions. It emphasizes the President's authority over the executive branch and argues that recent actions by career employees have undermined presidential directives. Key changes include renaming 'Schedule F' to 'Schedule Policy/Career', clarifying procedures for adverse actions, and requiring faithful implementation of administration policies.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {Executive Order, Civil Service, Accountability, Policy-Influencing Positions…}
+Authority granted to                    : The President
+Impacted entities                       : Federal employees, particularly those in policy-influencing positions
+Budgetary impact                        : 
+Enforcement Mechanism                   : 
+Implementation timeline                 : Immediate
+Long-term Impact                        : Increased presidential control over the federal workforce and potential for reduced civil service independence.
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : Executive Order 13957
+Executive Order Duration                : 
+Scope of Applicability                  : Federal workforce, particularly policy-influencing positions.
+Interaction with Other Laws/Regulations : Amends existing Civil Service Regulations and revokes Executive Order 14003.
+Delegated Powers                        : 
+Revocation/Modification Process         : Presidential order
+Political Context                       : Issued by a President aiming to strengthen executive control over the bureaucracy.
+Priority Areas Addressed                : Accountability, presidential authority, civil service reform.
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : Permanent
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : Potential impact on federal employees and their unions.
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

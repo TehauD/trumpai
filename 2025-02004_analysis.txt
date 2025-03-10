@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14157
+Date signed                             : January 20, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order establishes a process for designating international cartels and other organizations as Foreign Terrorist Organizations or Specially Designated Global Terrorists due to their national security threats. It cites the Immigration and Nationality Act and the International Emergency Economic Powers Act as legal bases. The order highlights the dangers posed by cartels, specifically those operating in the Western Hemisphere, and other transnational criminal organizations like Tren de Aragua (TdA) and La Mara Salvatrucha (MS-13). It directs various government agencies to take actions related to designation and operational preparations for potential invocation of the Alien Enemies Act.
+Agency Impacted                         : Multiple agencies including State Department, Treasury Department, Department of Justice, Department of Homeland Security, and Office of National Intelligence
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : True
+Pros                                    : {Elimination of transnational criminal organizations' presence in the US, Protection of American people and territorial integrity}
+Cons                                    : {Potential for increased tensions with affected countries, Concerns regarding civil liberties and due process}
+Keywords                                : {cartels, Foreign Terrorist Organizations, Specially Designated Global Terrorists, national security…}
+Authority granted to                    : Secretary of State, Secretary of the Treasury, Attorney General, Secretary of Homeland Security, Director of National Intelligence
+Impacted entities                       : {International cartels, Transnational criminal organizations, Foreign governments}
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : Designation as Foreign Terrorist Organization or Specially Designated Global Terrorist, potential invocation of Alien Enemies Act
+Implementation timeline                 : 14 days for initial recommendations and preparations
+Long-term Impact                        : {Potential reduction in transnational crime, Strengthened national security posture, Strained relations with affected countries}
+Stakeholder Reactions                   : 
+Historical Context                      : Growing concern over the influence and activities of cartels and transnational criminal organizations in the Western Hemisphere.
+Implementation Challenges               : {International cooperation, Legal challenges to designations, Balancing national security with civil liberties}
+Public Perception                       : 
+Legal Precedents                        : Executive Order 13224 (Blocking Property and Prohibiting Transactions With Persons Who Commit, Threaten to Commit, or Support Terrorism)
+Executive Order Comparisons             : 
+Executive Order Duration                : Not specified
+Scope of Applicability                  : International cartels and other organizations operating within and outside the United States
+Interaction with Other Laws/Regulations : Immigration and Nationality Act, International Emergency Economic Powers Act, Alien Enemies Act
+Delegated Powers                        : {Designation authority to Secretary of State, Operational preparation authority to Attorney General and Secretary of Homeland Security}
+Revocation/Modification Process         : Not specified
+Political Context                       : Heightened concern over border security and transnational crime
+Priority Areas Addressed                : {National security, Border security, Transnational crime}
+Compliance Requirements                 : Not specified
+Court Involvement                       : Potential for legal challenges to designations
+Impact on International Relations       : {Strained relations with affected countries, Increased cooperation with allies in combating transnational crime}
+Enabling Legislation                    : Immigration and Nationality Act, International Emergency Economic Powers Act
+Review and Oversight Mechanism          : Not specified
+Temporary vs. Permanent Measures        : Not specified
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Potential for overreach and infringement on due process rights}
+Public Health Impact                    : 
+Data and Reporting Requirements         : Not specified
+Security Implications                   : {Enhanced security measures, Increased surveillance}
+Partisan Support/Opposition             : 
+Executive Action Precedent              : Previous executive orders targeting terrorism and transnational crime
+Economic Sector Impact                  : {Potential disruption to industries affected by cartels' activities}
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Potential for disproportionate impact on marginalized communities}
+Transparency                            : 
+Public Engagement or Consultation       : 
+

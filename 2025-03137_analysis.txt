@@ -1,0 +1,51 @@
+
+Order number                            : 14218
+Date signed                             : February 19, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order aims to prevent taxpayer-funded benefits from going to illegal aliens. It directs federal agencies to identify and align federally funded programs with the goals of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA), which limits access to public benefits for illegal immigrants. The order also seeks to prevent federal funding from supporting sanctuary policies and to enhance eligibility verification systems.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : 
+Pros                                    : {Upholds the rule of law, Defends against waste of taxpayer resources, Protects benefits for American citizens}
+Cons                                    : {Potentially restricts access to essential services for vulnerable populations, May be challenged in court on legal grounds, Could contribute to negative public perceptions of immigrants}
+Keywords                                : {immigration, illegal immigration, taxpayer funding, public benefits…}
+Authority granted to                    : Heads of executive departments and agencies
+Impacted entities                       : Federal agencies, states, localities, illegal aliens
+Budgetary impact                        : 
+Enforcement Mechanism                   : Agency actions, referrals to Department of Justice and Homeland Security
+Implementation timeline                 : 30 days for initial actions
+Long-term Impact                        : Potential reduction in federal spending on public benefits for illegal aliens, potential legal challenges
+Stakeholder Reactions                   : Likely opposition from immigrant rights groups, support from anti-immigration groups
+Historical Context                      : Builds upon previous attempts to restrict access to public benefits for illegal immigrants
+Implementation Challenges               : Resistance from states and localities with sanctuary policies, legal challenges
+Public Perception                       : Potentially polarizing, depending on individual views on immigration
+Legal Precedents                        : PRWORA, other executive orders related to immigration
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : United States
+Interaction with Other Laws/Regulations : May conflict with state and local laws promoting access to public benefits for all residents
+Delegated Powers                        : 
+Revocation/Modification Process         : Presidential action
+Political Context                       : Issued by a Republican president in a politically polarized environment
+Priority Areas Addressed                : Immigration, fiscal responsibility
+Compliance Requirements                 : Federal agencies required to take specific actions to align programs with the order
+Court Involvement                       : Possible legal challenges from immigrant rights groups or states
+Impact on International Relations       : Potential for strained relations with countries whose citizens are affected by the order
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Congressional oversight, potential judicial review
+Temporary vs. Permanent Measures        : Permanent
+Environmental Considerations            : 
+Civil Liberties Considerations          : Potential infringement on the rights of immigrants to access essential services
+Public Health Impact                    : Potential negative impacts on public health if undocumented immigrants are less likely to seek medical care due to fear of deportation
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely strong support from Republicans, strong opposition from Democrats
+Executive Action Precedent              : Previous executive orders on immigration by previous administrations
+Economic Sector Impact                  : Potential impact on industries reliant on immigrant labor
+Labor/Workforce Impact                  : Potential reduction in the undocumented workforce
+Technological Impact                    : 
+Social Justice Considerations           : Raises concerns about equity and access to essential services for vulnerable populations
+Transparency                            : Publicly available executive order
+Public Engagement or Consultation       : 
+

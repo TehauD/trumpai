@@ -1,0 +1,51 @@
+
+Order number                            : 14177
+Date signed                             : January 23, 2025
+Signed by                               : President
+Detailed Summary                        : This Executive Order establishes the President's Council of Advisors on Science and Technology (PCAST) to advise the President on matters involving science, technology, education, and innovation policy. The council will provide scientific and technical information needed to inform public policy relating to various topics, including the American economy, workforce, national security, and more. It replaces a previous council established by Executive Order 14007.
+Agency Impacted                         : Multiple agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Provides expert advice on science and technology., Aims to maintain American technological dominance.}
+Cons                                    : {}
+Keywords                                : {Science, Technology, Innovation, Council…}
+Authority granted to                    : President's Council of Advisors on Science and Technology (PCAST)
+Impacted entities                       : Government agencies, research community, private sector, universities, national laboratories, State, local, and Tribal governments
+Budgetary impact                        : Funding provided by the Department of Energy.
+Enforcement Mechanism                   : Not applicable
+Implementation timeline                 : 2 years from date of order, with potential for extension
+Long-term Impact                        : Potentially significant influence on US science and technology policy
+Stakeholder Reactions                   : Not mentioned in the text
+Historical Context                      : Revokes and replaces Executive Order 14007.
+Implementation Challenges               : Not mentioned in the text
+Public Perception                       : Not mentioned in the text
+Legal Precedents                        : Federal Advisory Committee Act
+Executive Order Comparisons             : Revokes Executive Order 14007 and amends Executive Order 14109.
+Executive Order Duration                : 2 years, with potential extension
+Scope of Applicability                  : National
+Interaction with Other Laws/Regulations : Subject to applicable law
+Delegated Powers                        : PCAST is authorized to create subcommittees and ad hoc groups
+Revocation/Modification Process         : Revocable by the President
+Political Context                       : Focus on maintaining US technological dominance amid global competition
+Priority Areas Addressed                : Science, technology, education, innovation
+Compliance Requirements                 : Not applicable
+Court Involvement                       : Not mentioned in the text
+Impact on International Relations       : Potential implications for international scientific collaboration and competition
+Enabling Legislation                    : Not mentioned in the text
+Review and Oversight Mechanism          : Subject to review by the Secretary of Energy and guidelines from the Administrator of General Services
+Temporary vs. Permanent Measures        : Temporary, with potential extension
+Environmental Considerations            : Not mentioned in the text
+Civil Liberties Considerations          : Not mentioned in the text
+Public Health Impact                    : Not mentioned in the text
+Data and Reporting Requirements         : Not mentioned in the text
+Security Implications                   : Access to classified information may be granted to some members.
+Partisan Support/Opposition             : Not mentioned in the text
+Executive Action Precedent              : Continues a tradition of Presidential advisory councils on science and technology
+Economic Sector Impact                  : Potential impact across multiple sectors
+Labor/Workforce Impact                  : Aims to strengthen American workforce through innovation
+Technological Impact                    : Focuses on promoting advancements in science and technology
+Social Justice Considerations           : Not mentioned in the text
+Transparency                            : Meetings of PCAST will be open to the public
+Public Engagement or Consultation       : PCAST is required to solicit information from a broad range of stakeholders
+

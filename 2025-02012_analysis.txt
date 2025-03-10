@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14164
+Date signed                             : January 20, 2025
+Signed by                               : President Donald Trump
+Detailed Summary                        : This Executive Order reinstates the federal death penalty and directs the Attorney General to pursue capital punishment for a wider range of crimes. It criticizes previous administrations for halting executions and commuting sentences, arguing that capital punishment is essential for deterring heinous crimes and upholding justice.
+Agency Impacted                         : Department of Justice
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Deterrent effect against heinous crimes, Upholds justice for victims, Restores public safety}
+Cons                                    : {Morality concerns regarding capital punishment, Potential for wrongful executions, International criticism}
+Keywords                                : {Capital Punishment, Death Penalty, Justice, Law Enforcement…}
+Authority granted to                    : Attorney General
+Impacted entities                       : Federal and State justice systems, individuals convicted of capital crimes, victims' families
+Budgetary impact                        : Potential increase in costs for legal proceedings and executions.
+Enforcement Mechanism                   : Department of Justice
+Implementation timeline                 : Immediate
+Long-term Impact                        : Significant changes to the criminal justice system and ongoing debates about capital punishment.
+Stakeholder Reactions                   : Likely to be met with strong opposition from human rights groups and supporters of criminal justice reform, as well as support from law enforcement and advocates for victims' rights.
+Historical Context                      : Continues a long-standing debate in the United States about the use of capital punishment, with shifting public opinion and legal challenges over time.
+Implementation Challenges               : Potential legal challenges based on constitutional concerns, difficulty obtaining necessary drugs for lethal injection, and resistance from some states.
+Public Perception                       : Likely to be highly polarizing, with strong opinions both for and against the order.
+Legal Precedents                        : Supreme Court rulings on capital punishment, such as Atkins v. Virginia (2002) and Roper v. Simmons (2005)
+Executive Order Comparisons             : Previous executive orders related to capital punishment
+Executive Order Duration                : Permanent unless revoked by a subsequent President
+Scope of Applicability                  : Federal and State governments
+Interaction with Other Laws/Regulations : Will likely interact with existing laws regarding sentencing, appeals, and execution protocols.
+Delegated Powers                        : Attorney General is delegated significant authority to implement the order.
+Revocation/Modification Process         : Can be revoked or modified by a subsequent President.
+Political Context                       : Issued amidst ongoing political debate about crime and punishment in the United States.
+Priority Areas Addressed                : Public safety, law enforcement, criminal justice
+Compliance Requirements                 : Federal and State governments will need to comply with the order's directives.
+Court Involvement                       : Likely to face legal challenges from opponents of capital punishment.
+Impact on International Relations       : May damage relations with countries that oppose capital punishment.
+Enabling Legislation                    : Existing federal laws regarding capital punishment
+Review and Oversight Mechanism          : Subject to Congressional oversight and public scrutiny.
+Temporary vs. Permanent Measures        : Permanent unless revoked
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Right to life, Due process}
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Strong partisan divide, with Republicans likely supportive and Democrats opposed.
+Executive Action Precedent              : Continues a pattern of executive action on controversial issues.
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Disproportionate impact on marginalized communities, Concerns about racial bias in capital punishment}
+Transparency                            : Publicly available executive order with potential for future transparency regarding implementation.
+Public Engagement or Consultation       : 
+

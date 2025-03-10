@@ -1,0 +1,51 @@
+
+Order number                            : 14186
+Date signed                             : January 27, 2025
+Signed by                               : President Joe Biden
+Detailed Summary                        : This executive order directs the development and deployment of a next-generation missile defense shield to protect the United States from ballistic, hypersonic, advanced cruise missiles, and other next-generation aerial attacks. It emphasizes deterring foreign aerial attacks, guaranteeing secure second-strike capability, and strengthening national security.
+Agency Impacted                         : Department of Defense
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Deterrence against missile attacks, Enhanced national security, Protection of critical infrastructure}
+Cons                                    : {High cost of development and deployment, Potential for escalation of international tensions, Ethical concerns regarding weaponization of space}
+Keywords                                : {missile defense, national security, hypersonic missiles, ballistic missiles…}
+Authority granted to                    : Secretary of Defense
+Impacted entities                       : {United States citizens, Critical infrastructure, Military personnel, Allied nations}
+Budgetary impact                        : Significant funding required
+Enforcement Mechanism                   : Presidential authority and Department of Defense oversight
+Implementation timeline                 : 60 days for initial plan submission, long-term development and deployment
+Long-term Impact                        : Potential transformation of national defense posture, increased reliance on space-based systems
+Stakeholder Reactions                   : Mixed, with support from defense hawks and concerns from arms control advocates
+Historical Context                      : Reagan-era Strategic Defense Initiative, post-Cold War missile defense developments
+Implementation Challenges               : Technological complexity, cost overruns, political opposition
+Public Perception                       : Likely divided, with concerns about the militarization of space and potential for escalation
+Legal Precedents                        : Previous executive orders on missile defense, relevant laws regarding national security and military procurement
+Executive Order Comparisons             : Reagan's Strategic Defense Initiative, Bush administration missile defense programs
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : National defense, international relations
+Interaction with Other Laws/Regulations : Will need to comply with existing laws on military procurement, arms control treaties
+Delegated Powers                        : Secretary of Defense given authority to develop and implement the missile defense plan
+Revocation/Modification Process         : Subject to future executive orders or Congressional action
+Political Context                       : Heightened global tensions, concerns about peer competitor advancements in hypersonic technology
+Priority Areas Addressed                : National security, homeland defense, deterrence
+Compliance Requirements                 : Department of Defense reporting and adherence to budget constraints
+Court Involvement                       : Possible legal challenges from arms control groups or other stakeholders
+Impact on International Relations       : Potential for increased tensions with adversaries, opportunities for cooperation with allies
+Enabling Legislation                    : May require Congressional authorization for funding and deployment
+Review and Oversight Mechanism          : Congressional oversight committees, potential independent reviews
+Temporary vs. Permanent Measures        : Intended as a long-term strategic investment in national security
+Environmental Considerations            : Potential impact of space debris and environmental consequences of missile testing
+Civil Liberties Considerations          : Concerns about potential privacy implications of advanced surveillance technologies
+Public Health Impact                    : Minimal direct impact, but potential indirect effects from geopolitical tensions
+Data and Reporting Requirements         : Department of Defense will be required to report on progress and costs
+Security Implications                   : Strengthening national security through improved missile defense capabilities
+Partisan Support/Opposition             : Likely divided along party lines, with Republicans generally supportive and Democrats more cautious
+Executive Action Precedent              : Builds upon previous administrations' efforts in missile defense
+Economic Sector Impact                  : Potential boost to the aerospace industry and related sectors
+Labor/Workforce Impact                  : Creation of jobs in research, development, and manufacturing
+Technological Impact                    : Advancements in hypersonic technology, space-based sensors, and artificial intelligence
+Social Justice Considerations           : Potential for disproportionate impacts on vulnerable communities in case of missile attacks
+Transparency                            : Public disclosure of the plan and budget details
+Public Engagement or Consultation       : Opportunity for public comment during the implementation process
+

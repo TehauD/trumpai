@@ -1,0 +1,51 @@
+
+Order number                            : 14188
+Date signed                             : January 29, 2025
+Signed by                               : The President
+Detailed Summary                        : This Executive Order reaffirms and expands upon Executive Order 13899, which aimed to combat anti-Semitism. It directs federal agencies to identify legal tools and actions to address anti-Semitism, particularly on college campuses, following a surge in incidents after the Hamas attacks in October 2023. The order mandates reports from various departments detailing their efforts and authorities to combat anti-Semitism, including potential use of immigration law against foreign students involved in such activities.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Addresses a pressing social issue - anti-Semitism, Directs federal resources to combat discrimination, Provides a framework for interagency cooperation}
+Cons                                    : {Could be seen as encroaching on free speech rights, May lead to overreach in targeting individuals based on their beliefs, Implementation and effectiveness depend on agency commitment and legal challenges}
+Keywords                                : {anti-Semitism, Executive Order, campus safety, civil rights…}
+Authority granted to                    : Heads of Executive Departments and Agencies
+Impacted entities                       : {Institutions of Higher Education, Jewish Students, Federal Agencies}
+Budgetary impact                        : 
+Enforcement Mechanism                   : {Agency reporting, Legal action against perpetrators, Potential use of immigration law}
+Implementation timeline                 : 60 days from the date of the order
+Long-term Impact                        : {Improved protection for Jewish students and communities, Increased awareness and prevention of anti-Semitism, Potential for legal challenges and unintended consequences}
+Stakeholder Reactions                   : 
+Historical Context                      : Builds upon Executive Order 13899 issued in 2019
+Implementation Challenges               : {Coordinating agency efforts, Defining and measuring anti-Semitism, Balancing free speech with protection against discrimination}
+Public Perception                       : 
+Legal Precedents                        : Executive Order 13899
+Executive Order Comparisons             : Executive Order 13899
+Executive Order Duration                : 
+Scope of Applicability                  : United States, particularly institutions of higher education
+Interaction with Other Laws/Regulations : {Civil Rights laws, Immigration law}
+Delegated Powers                        : 
+Revocation/Modification Process         : Standard Executive Order modification procedures
+Political Context                       : Issued in response to increased anti-Semitism following Hamas attacks
+Priority Areas Addressed                : {Combatting hate crimes and discrimination, Protecting civil rights, Ensuring campus safety}
+Compliance Requirements                 : {Agency reporting, Implementation of identified legal tools and actions}
+Court Involvement                       : Potential for lawsuits challenging the order's provisions
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Presidential review and potential Congressional oversight
+Temporary vs. Permanent Measures        : Permanent Executive Order
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Balancing free speech rights with protection against discrimination, Potential for overreach in targeting individuals based on their beliefs}
+Public Health Impact                    : 
+Data and Reporting Requirements         : Agency reports detailing efforts to combat anti-Semitism
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : Previous Executive Orders addressing civil rights issues
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Addresses systemic discrimination and promotes equality, Potential for unintended consequences or exacerbating existing divisions}
+Transparency                            : Publicly available Executive Order text and agency reports
+Public Engagement or Consultation       : 
+

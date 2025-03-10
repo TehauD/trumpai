@@ -1,0 +1,51 @@
+
+Order number                            : Executive Order 14175
+Date signed                             : January 22, 2025
+Signed by                               : President Donald Trump
+Detailed Summary                        : This executive order designates Ansar Allah, also known as the Houthis, as a Foreign Terrorist Organization. The order cites the Houthis' attacks on US Navy warships, civilian infrastructure, and commercial vessels in the Red Sea as justification for the designation. It directs the Secretary of State to submit a report on the designation within 30 days and take appropriate action within 15 days after that.
+Agency Impacted                         : Department of State, United States Agency for International Development (USAID)
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : True
+Pros                                    : {Countering terrorist threats from Ansar Allah, Protecting US personnel and interests in the Middle East, Stabilizing global maritime trade}
+Cons                                    : {Potential humanitarian consequences for Yemeni civilians, Escalation of tensions in the region, Strained relations with Iran}
+Keywords                                : {Ansar Allah, Houthis, Foreign Terrorist Organization, Yemen…}
+Authority granted to                    : Secretary of State, Administrator of USAID
+Impacted entities                       : Ansar Allah, Yemeni government, international partners, NGOs working in Yemen
+Budgetary impact                        : Potentially increased funding for counterterrorism efforts and humanitarian aid
+Enforcement Mechanism                   : Designation as a Foreign Terrorist Organization under 8 U.S.C. 1189, which includes financial sanctions and travel restrictions
+Implementation timeline                 : 30 days for report submission, 15 days for action
+Long-term Impact                        : Potentially long-lasting impact on the conflict in Yemen and US foreign policy in the Middle East
+Stakeholder Reactions                   : Likely condemnation from Iran and support from regional allies
+Historical Context                      : Ongoing conflict in Yemen since 2014, previous US involvement
+Implementation Challenges               : Potential for unintended consequences, difficulties in enforcing sanctions against a non-state actor
+Public Perception                       : Mixed, depending on views on US foreign policy and the conflict in Yemen
+Legal Precedents                        : Previous designations of terrorist organizations under 8 U.S.C. 1189
+Executive Order Comparisons             : 
+Executive Order Duration                : Indefinite until revoked or modified
+Scope of Applicability                  : Global, particularly affecting Ansar Allah's operations and funding sources
+Interaction with Other Laws/Regulations : Alignment with existing counterterrorism laws and regulations
+Delegated Powers                        : Secretary of State and USAID Administrator authorized to take specific actions related to designation and impact on programs
+Revocation/Modification Process         : Subject to presidential authority and potential for legal challenges
+Political Context                       : Tensions with Iran, US commitment to countering terrorism
+Priority Areas Addressed                : National security, counterterrorism, Middle East policy
+Compliance Requirements                 : US entities required to comply with sanctions imposed on Ansar Allah
+Court Involvement                       : Potential for legal challenges regarding the designation and its implementation
+Impact on International Relations       : Strained relations with Iran, potential for increased cooperation with regional allies
+Enabling Legislation                    : Immigration and Nationality Act (8 U.S.C. 1101 et seq.)
+Review and Oversight Mechanism          : Congressional oversight, media scrutiny
+Temporary vs. Permanent Measures        : Indefinite duration unless revoked or modified
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : Reporting on the designation's implementation and impact
+Security Implications                   : Reduced threat from Ansar Allah, potential for increased instability in the region
+Partisan Support/Opposition             : Likely partisan divisions over US foreign policy
+Executive Action Precedent              : Previous designations of terrorist organizations
+Economic Sector Impact                  : Potential impact on maritime trade and related industries
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : Potential humanitarian consequences for Yemeni civilians
+Transparency                            : Public disclosure of the executive order and related information
+Public Engagement or Consultation       : Consultations with relevant agencies and international partners
+

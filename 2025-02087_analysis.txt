@@ -1,0 +1,51 @@
+
+Order number                            : 14166
+Date signed                             : January 20, 2025
+Signed by                               : Joe Biden
+Detailed Summary                        : This executive order directs the Attorney General not to enforce the Protecting Americans from Foreign Adversary Controlled Applications Act (the 'Act') for 75 days. The Act prohibits entities from distributing, maintaining, or updating certain foreign adversary controlled applications, including TikTok, within the United States. President Biden argues that the Act's timing interferes with his ability to assess national security and foreign policy implications before its prohibitions take effect.
+Agency Impacted                         : Department of Justice
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : Allows for a review of the national security concerns posed by TikTok and potential mitigation measures. Provides time to negotiate a resolution that protects national security while avoiding an abrupt shutdown of TikTok.
+Cons                                    : Temporarily delays enforcement of a law designed to address national security concerns related to foreign adversary controlled applications. May be perceived as undermining Congressional intent.
+Keywords                                : {TikTok, National Security, Foreign Adversary Controlled Applications Act, Executive Order…}
+Authority granted to                    : Attorney General
+Impacted entities                       : Entities distributing, maintaining, or updating foreign adversary controlled applications, including TikTok.
+Budgetary impact                        : 
+Enforcement Mechanism                   : Department of Justice enforcement
+Implementation timeline                 : 75 days from January 20, 2025
+Long-term Impact                        : Unknown, dependent on the outcome of the review and negotiations.
+Stakeholder Reactions                   : 
+Historical Context                      : Growing concerns about data security and national security risks posed by foreign-owned technology companies operating in the United States.
+Implementation Challenges               : Balancing national security concerns with protecting freedom of speech and access to information.
+Public Perception                       : Divided public opinion regarding TikTok's security risks versus its popularity and usefulness.
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 75 days
+Scope of Applicability                  : United States
+Interaction with Other Laws/Regulations : Potentially interacts with other laws and regulations related to data privacy, cybersecurity, and foreign investment.
+Delegated Powers                        : Enforcement authority delegated to the Attorney General.
+Revocation/Modification Process         : Subject to Presidential action or Congressional intervention.
+Political Context                       : Highly politicized issue due to concerns about China's influence and potential data breaches.
+Priority Areas Addressed                : National security, cybersecurity, technology policy
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : Potential diplomatic tensions with China.
+Enabling Legislation                    : Protecting Americans From Foreign Adversary Controlled Applications Act (Pub. L. 118-50, div. H)
+Review and Oversight Mechanism          : Presidential review and oversight
+Temporary vs. Permanent Measures        : Temporary suspension of enforcement for 75 days.
+Environmental Considerations            : 
+Civil Liberties Considerations          : Potential impact on freedom of speech and access to information.
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : National security concerns related to data security and potential foreign influence.
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Potential impact on the technology sector and digital economy.
+Labor/Workforce Impact                  : 
+Technological Impact                    : Potential impact on the development and deployment of emerging technologies.
+Social Justice Considerations           : 
+Transparency                            : Limited transparency regarding the decision-making process behind the executive order.
+Public Engagement or Consultation       : 
+

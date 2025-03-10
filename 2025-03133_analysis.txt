@@ -1,0 +1,51 @@
+
+Order number                            : 14217
+Date signed                             : February 19, 2025
+Signed by                               : Joe Biden
+Detailed Summary                        : This executive order aims to reduce the size of the federal government and bureaucracy. It eliminates non-statutory components and functions of specific governmental entities, directs the termination of unnecessary Federal Advisory Committees, and revokes prior directives related to regional coordination and management programs.
+Agency Impacted                         : Multiple agencies are impacted, including but not limited to: Presidio Trust, Inter-American Foundation, United States African Development Foundation, United States Institute of Peace, Bureau of Consumer Financial Protection, Federal Deposit Insurance Corporation, Department of Health and Human Services, Centers for Medicare and Medicaid Services.
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : True
+Pros                                    : {Reduced government size and spending, Potential increase in efficiency and accountability, Elimination of potentially redundant or unnecessary programs}
+Cons                                    : {Potential loss of expertise and services provided by eliminated entities, Impact on employment within targeted agencies, Possible legal challenges to the order's implementation}
+Keywords                                : {Federal bureaucracy, Government reduction, Executive order, Federal advisory committees…}
+Authority granted to                    : The President, by the Constitution and laws of the United States of America.
+Impacted entities                       : {Presidio Trust, Inter-American Foundation, United States African Development Foundation, United States Institute of Peace…}
+Budgetary impact                        : Expected to reduce government spending.
+Enforcement Mechanism                   : Office of Management and Budget (OMB) Director oversees implementation and reviews budget requests, agency heads submit compliance reports.
+Implementation timeline                 : Within 14 days of the order for initial actions, 30 days for identification of additional entities.
+Long-term Impact                        : Potential long-term reduction in government size and spending, potential shifts in policy priorities and service delivery.
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : Potential legal challenges, resistance from affected agencies and stakeholders.
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Federal government agencies and programs specified in the order.
+Interaction with Other Laws/Regulations : OMB Director reviews budget requests to ensure consistency with applicable law.
+Delegated Powers                        : Authority delegated to agency heads for implementing terminations and reporting compliance.
+Revocation/Modification Process         : Not explicitly outlined in the order, likely subject to standard executive order amendment or revocation processes.
+Political Context                       : 
+Priority Areas Addressed                : Government efficiency, budget reduction, streamlining bureaucracy.
+Compliance Requirements                 : Agency heads required to submit compliance reports and eliminate specified programs/functions.
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : OMB Director reviews budget requests and agency compliance reports.
+Temporary vs. Permanent Measures        : Permanent changes to the structure of targeted agencies and programs.
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : Agency heads required to submit reports confirming compliance with the order.
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Potential impact on sectors reliant on targeted agencies or programs.
+Labor/Workforce Impact                  : Possible job losses due to agency downsizing.
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Public availability of the order and agency compliance reports.
+Public Engagement or Consultation       : 
+

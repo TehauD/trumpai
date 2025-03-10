@@ -1,0 +1,51 @@
+
+Order number                            : 14158
+Date signed                             : January 20, 2025
+Signed by                               : President
+Detailed Summary                        : This executive order establishes the Department of Government Efficiency to modernize Federal technology and software in order to maximize governmental efficiency and productivity.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {Government Efficiency, DOGE Agenda, Technology Modernization, USDS}
+Authority granted to                    : USDS Administrator
+Impacted entities                       : Federal Agencies
+Budgetary impact                        : Subject to availability of appropriations
+Enforcement Mechanism                   : 
+Implementation timeline                 : 18 months (DOGE Agenda)
+Long-term Impact                        : 
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Federal Government
+Interaction with Other Laws/Regulations : Consistent with applicable law
+Delegated Powers                        : USDS Administrator
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : Government Efficiency
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : Temporary Organization terminates July 4, 2026
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : Modernization of Federal technology and software
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

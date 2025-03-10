@@ -1,0 +1,51 @@
+
+Order number                            : 14200
+Date signed                             : February 5, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order amends a previous order (issued February 1, 2025) that imposed duties to address the synthetic opioid supply chain in the People's Republic of China. The amendment specifically changes subsection (g) of section 2, relating to duty-free de minimis treatment for covered articles.
+Agency Impacted                         : 
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {synthetic opioids, China, supply chain, duties…}
+Authority granted to                    : Secretary of Commerce
+Impacted entities                       : Businesses importing covered articles from China
+Budgetary impact                        : Potential increase in tariff revenue
+Enforcement Mechanism                   : Customs and Border Protection
+Implementation timeline                 : Immediate
+Long-term Impact                        : Potential reduction in the flow of synthetic opioids from China
+Stakeholder Reactions                   : 
+Historical Context                      : Part of ongoing efforts to combat the opioid epidemic
+Implementation Challenges               : Ensuring effective collection of tariff revenue
+Public Perception                       : 
+Legal Precedents                        : International Emergency Economic Powers Act, National Emergencies Act, Trade Act of 1974
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : Covered articles imported from China
+Interaction with Other Laws/Regulations : Tariff laws and regulations
+Delegated Powers                        : Secretary of Commerce to notify the President when adequate systems are in place for tariff collection
+Revocation/Modification Process         : Presidential action
+Political Context                       : 
+Priority Areas Addressed                : Opioid crisis, national security
+Compliance Requirements                 : Importers of covered articles must comply with modified de minimis treatment rules
+Court Involvement                       : 
+Impact on International Relations       : Potential for tensions with China
+Enabling Legislation                    : International Emergency Economic Powers Act, National Emergencies Act, Trade Act of 1974
+Review and Oversight Mechanism          : Congressional oversight
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential positive impact by reducing the supply of synthetic opioids
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Import/export sector
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Published in the Federal Register
+Public Engagement or Consultation       : 
+

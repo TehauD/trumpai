@@ -1,0 +1,51 @@
+
+Order number                            : 14155
+Date signed                             : January 20, 2025
+Signed by                               : President [Donald] Trump
+Detailed Summary                        : This executive order withdraws the United States from the World Health Organization (WHO), citing concerns about the WHO's handling of the COVID-19 pandemic, its failure to adopt necessary reforms, and unfair financial burdens on the US. It revokes previous actions related to the WHO and directs various agencies to cease involvement with the organization.
+Agency Impacted                         : Multiple, including Department of State, Office of Management and Budget, National Security Council
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : {Withdrawal from an organization seen as ineffective or detrimental to US interests, Potential reallocation of resources, Reassertion of sovereignty}
+Cons                                    : {Damage to international relationships and cooperation on global health issues, Loss of influence in shaping global health policies, Potential negative impact on pandemic preparedness and response}
+Keywords                                : {World Health Organization, WHO, withdrawal, COVID-19, pandemic, global health, United States, Executive Order}
+Authority granted to                    : Assistant to the President for National Security Affairs, Secretary of State, Director of the Office of Management and Budget
+Impacted entities                       : World Health Organization, United Nations, Global Health Community
+Budgetary impact                        : Potential savings from ceasing contributions to WHO
+Enforcement Mechanism                   : Presidential directives, agency actions
+Implementation timeline                 : Immediate
+Long-term Impact                        : Uncertain, but potentially significant for US global health engagement and international relations
+Stakeholder Reactions                   : Likely mixed, with support from those critical of the WHO and opposition from those who see it as essential for global health security
+Historical Context                      : Previous US withdrawal attempt in 2020 under the Trump administration
+Implementation Challenges               : Coordinating withdrawal across multiple agencies, managing potential backlash from international partners
+Public Perception                       : Likely divided along partisan lines
+Legal Precedents                        : Other instances of presidential withdrawals from international agreements
+Executive Order Comparisons             : Executive Order 13987 (2021) on COVID-19 response
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : Global
+Interaction with Other Laws/Regulations : Potential conflicts with existing laws or treaties related to international health cooperation
+Delegated Powers                        : To relevant agencies and officials as specified in the order
+Revocation/Modification Process         : Subject to future presidential action
+Political Context                       : Heightened tensions between the US and China, skepticism towards multilateral organizations
+Priority Areas Addressed                : Global health security, pandemic preparedness, international relations
+Compliance Requirements                 : N/A
+Court Involvement                       : Possible legal challenges to the order
+Impact on International Relations       : Negative, potentially damaging to US credibility and relationships with allies
+Enabling Legislation                    : None explicitly stated
+Review and Oversight Mechanism          : Presidential oversight, potential congressional hearings
+Temporary vs. Permanent Measures        : Permanent withdrawal
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential negative impact on global efforts to combat pandemics
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Likely strong support from Republicans, opposition from Democrats
+Executive Action Precedent              : Establishes a precedent for unilateral withdrawal from international agreements
+Economic Sector Impact                  : Potential indirect impact on industries related to global health
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : Publicly available document
+Public Engagement or Consultation       : 
+

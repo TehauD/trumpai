@@ -1,0 +1,51 @@
+
+Order number                            : 14167
+Date signed                             : January 20, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order directs the U.S. military to play a more active role in securing the nation's borders, particularly the southern border. It emphasizes the protection of territorial integrity and sovereignty against threats such as unlawful migration, drug trafficking, and transnational crime. The order mandates revisions to the Unified Command Plan to give USNORTHCOM the mission of sealing the borders and maintaining security.
+Agency Impacted                         : Department of Defense
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {Border Security, Military Deployment, Immigration, National Security…}
+Authority granted to                    : United States Northern Command (USNORTHCOM)
+Impacted entities                       : {Department of Defense, U.S. Military}
+Budgetary impact                        : Subject to availability of appropriations
+Enforcement Mechanism                   : Revisions to Unified Command Plan and Contingency Planning Guidance
+Implementation timeline                 : 10 days for Unified Command Plan revision, 30 days for commander's estimate
+Long-term Impact                        : 
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : United States borders
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : 
+Revocation/Modification Process         : 
+Political Context                       : 
+Priority Areas Addressed                : {Border Security, National Security}
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : 
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : 
+

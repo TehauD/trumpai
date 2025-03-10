@@ -1,0 +1,51 @@
+
+Order number                            : 14214
+Date signed                             : February 14, 2025
+Signed by                               : President (assumed to be Joe Biden based on the document's date)
+Detailed Summary                        : This executive order prohibits federal funds from being used to support educational institutions that mandate COVID-19 vaccinations for students. It directs the Secretary of Education to issue guidelines on parental rights, religious freedom, and disability accommodations related to vaccine mandates.
+Agency Impacted                         : Department of Education
+Within Executive Powers                 : True
+Exceeds Executive Powers                : False
+Legal                                   : True
+Pros                                    : {Protects parental rights, Supports individual choice regarding vaccinations, Promotes transparency in educational policies}
+Cons                                    : {Potential for increased COVID-19 transmission in schools, May be seen as politically motivated, Could lead to legal challenges}
+Keywords                                : {COVID-19, vaccine mandates, education, federal funding…}
+Authority granted to                    : Secretary of Education
+Impacted entities                       : {Elementary schools, Local educational agencies, State educational agencies, Secondary schools…}
+Budgetary impact                        : Potential reduction in federal funding for non-compliant institutions
+Enforcement Mechanism                   : Withholding of federal funds, rescinding existing grants and contracts
+Implementation timeline                 : 90 days
+Long-term Impact                        : Uncertain, potential for increased polarization around vaccination policies
+Stakeholder Reactions                   : {Positive from anti-vaccine groups, Negative from public health advocates}
+Historical Context                      : COVID-19 pandemic and debates over vaccine mandates
+Implementation Challenges               : Defining 'coercion' and ensuring compliance from diverse educational institutions
+Public Perception                       : Likely divided along political lines
+Legal Precedents                        : {Jacobson v. Massachusetts (1905)}
+Executive Order Comparisons             : 
+Executive Order Duration                : Indefinite
+Scope of Applicability                  : Nationwide
+Interaction with Other Laws/Regulations : Potential conflict with state and local vaccine mandates
+Delegated Powers                        : Secretary of Education
+Revocation/Modification Process         : Presidential action
+Political Context                       : Highly politicized issue
+Priority Areas Addressed                : Public health, education, individual rights
+Compliance Requirements                 : Issuing guidelines, reviewing funding allocations
+Court Involvement                       : Likely
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Presidential review, congressional oversight
+Temporary vs. Permanent Measures        : Permanent
+Environmental Considerations            : 
+Civil Liberties Considerations          : {Parental rights, Religious freedom, Bodily autonomy}
+Public Health Impact                    : Potential increase in COVID-19 transmission
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : Strong partisan divide
+Executive Action Precedent              : Previous executive orders on vaccine mandates
+Economic Sector Impact                  : Education sector
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : {Equity in access to education, Impact on marginalized communities}
+Transparency                            : High
+Public Engagement or Consultation       : 
+

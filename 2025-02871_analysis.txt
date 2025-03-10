@@ -1,0 +1,51 @@
+
+Order number                            : 14212
+Date signed                             : February 13, 2025
+Signed by                               : The President
+Detailed Summary                        : This executive order establishes the President's Make America Healthy Again Commission to address the growing health crisis in the United States. The commission will focus on reducing chronic disease rates and ending childhood chronic diseases. It will investigate contributing factors such as diet, environmental exposures, medical treatments, lifestyle choices, and government policies.
+Agency Impacted                         : 
+Within Executive Powers                 : 
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {health, chronic disease, children's health, commission…}
+Authority granted to                    : President's Make America Healthy Again Commission
+Impacted entities                       : {Federal agencies, American citizens, children}
+Budgetary impact                        : Not specified
+Enforcement Mechanism                   : 
+Implementation timeline                 : 100 days for initial assessment, 180 days for strategy
+Long-term Impact                        : Potentially significant improvement in national health outcomes
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : National
+Interaction with Other Laws/Regulations : 
+Delegated Powers                        : 
+Revocation/Modification Process         : 
+Political Context                       : Concerns about rising healthcare costs and declining health outcomes in the US
+Priority Areas Addressed                : {Chronic disease prevention, Childhood health, Health disparities}
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : 
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : The President
+Temporary vs. Permanent Measures        : 
+Environmental Considerations            : 
+Civil Liberties Considerations          : 
+Public Health Impact                    : Potential for significant positive impact
+Data and Reporting Requirements         : 
+Security Implications                   : 
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : 
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : The Commission may hold public hearings and meetings
+

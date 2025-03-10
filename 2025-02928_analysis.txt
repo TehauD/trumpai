@@ -1,0 +1,51 @@
+
+Order number                            : 14213
+Date signed                             : February 14, 2025
+Signed by                               : Donald Trump
+Detailed Summary                        : This executive order establishes the National Energy Dominance Council within the Executive Office of the President. The council is tasked with advising the president on how to increase American energy production and achieve energy dominance. It will focus on streamlining permitting processes, promoting investment in all sectors of energy production, and eliminating unnecessary regulations.
+Agency Impacted                         : Multiple executive departments and agencies
+Within Executive Powers                 : True
+Exceeds Executive Powers                : 
+Legal                                   : 
+Pros                                    : 
+Cons                                    : 
+Keywords                                : {energy dominance, National Energy Dominance Council, energy production, regulation…}
+Authority granted to                    : National Energy Dominance Council
+Impacted entities                       : Federal agencies, energy industry, state and local governments, Tribal governments
+Budgetary impact                        : 
+Enforcement Mechanism                   : 
+Implementation timeline                 : Within 100 days for initial recommendations, ongoing thereafter
+Long-term Impact                        : Potentially significant impact on US energy production, regulation, and global energy markets
+Stakeholder Reactions                   : 
+Historical Context                      : 
+Implementation Challenges               : 
+Public Perception                       : 
+Legal Precedents                        : 
+Executive Order Comparisons             : 
+Executive Order Duration                : 
+Scope of Applicability                  : National
+Interaction with Other Laws/Regulations : Aims to streamline existing regulations and permitting processes
+Delegated Powers                        : Council is delegated advisory authority by the president
+Revocation/Modification Process         : Can be revoked or modified by the president
+Political Context                       : Signed by President Trump, who made energy dominance a key policy priority
+Priority Areas Addressed                : Energy production, infrastructure development, regulatory reform
+Compliance Requirements                 : 
+Court Involvement                       : 
+Impact on International Relations       : Potentially significant, as it aims to strengthen US energy position globally
+Enabling Legislation                    : 
+Review and Oversight Mechanism          : Reports to the Office of the Chief of Staff
+Temporary vs. Permanent Measures        : Permanent unless revoked by a subsequent president
+Environmental Considerations            : Mentioned indirectly through focus on energy production and potential impact on natural resources
+Civil Liberties Considerations          : 
+Public Health Impact                    : 
+Data and Reporting Requirements         : 
+Security Implications                   : Energy security is mentioned as a key goal
+Partisan Support/Opposition             : 
+Executive Action Precedent              : 
+Economic Sector Impact                  : Significant potential impact on energy sector and related industries
+Labor/Workforce Impact                  : 
+Technological Impact                    : 
+Social Justice Considerations           : 
+Transparency                            : 
+Public Engagement or Consultation       : Council required to consult with State, local, and Tribal governments and private sector representatives
+
